@@ -1,36 +1,34 @@
 <?xml version='1.0' encoding='utf-8'?>
 <RncProductCatalogChartCatalogs>
   <Header>
-    <title>VHF2OpenCPN</title>
     <date_created>2026-10-05</date_created>
-    <time_created>10:51:46</time_created>
+    <time_created>11:32:20</time_created>
     <date_valid>2026-10-05</date_valid>
-    <time_valid>10:51:46</time_valid>
-    <dt_valid>2026-10-05T10:51:46Z</dt_valid>
-    <ref_spec>Subset of NOAA RNC Product Catalog Technical Specifications</ref_spec>
+    <time_valid>11:32:20</time_valid>
+    <dt_valid>2026-10-05T11:32:20Z</dt_valid>
+    <title>VHF2OpenCPN</title>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
   </Header>
   <chart>
-    <number>VHFinfo_Nederland</number>
-    <title>VHFinfo Nederland</title>
-    <format>OpenCPN GPX layer + UserIcons</format>
+    <number>1</number>
+    <title>Sailing Chart, International Chart</title>
     <zipfile_location>https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main/packages/VHFinfo_Nederland.zip</zipfile_location>
-    <zipfile_datetime>20261005_105146</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-10-05T10:51:46Z</zipfile_datetime_iso8601>
-    <zipfile_size>208791</zipfile_size>
-    <target_filename>layers/VHFinfo_Nederland.gpx</target_filename>
-    <reference_file>layers/VHFinfo_Nederland.gpx</reference_file>
+    <zipfile_datetime_iso8601>2026-10-05T11:32:20Z</zipfile_datetime_iso8601>
+    <filename>VHFinfo_Nederland.zip</filename>
   </chart>
   <chart>
-    <number>RWS_Marifoonborden</number>
-    <title>Rijkswaterstaat marifoonborden</title>
-    <format>OpenCPN GPX layer + UserIcons</format>
+    <number>2</number>
+    <title>Sailing Chart, International Chart</title>
+    <zipfile_location>https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main/packages/VHF2OpenCPN_UserIcons.zip</zipfile_location>
+    <zipfile_datetime_iso8601>2026-10-05T11:32:20Z</zipfile_datetime_iso8601>
+    <filename>VHF2OpenCPN_UserIcons.zip</filename>
+  </chart>
+  <chart>
+    <number>3</number>
+    <title>Sailing Chart, International Chart</title>
     <zipfile_location>https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main/packages/RWS_Marifoonborden.zip</zipfile_location>
-    <zipfile_datetime>20261005_105146</zipfile_datetime>
-    <zipfile_datetime_iso8601>2026-10-05T10:51:46Z</zipfile_datetime_iso8601>
-    <zipfile_size>144532</zipfile_size>
-    <target_filename>layers/RWS_Marifoonborden.gpx</target_filename>
-    <reference_file>layers/RWS_Marifoonborden.gpx</reference_file>
+    <zipfile_datetime_iso8601>2026-10-05T11:32:20Z</zipfile_datetime_iso8601>
+    <filename>RWS_Marifoonborden.zip</filename>
   </chart>
 </RncProductCatalogChartCatalogs>

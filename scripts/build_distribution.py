@@ -9,54 +9,61 @@ LAYERS = ROOT / "layers"
 ICONS = ROOT / "UserIcons"
 PACKAGES = ROOT / "packages"
 CATALOG = ROOT / "catalog"
-BASE_URL = "https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main"
+BASE = "https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main"
+
 PACKAGES.mkdir(exist_ok=True)
 CATALOG.mkdir(exist_ok=True)
 
-def add(zf, path, arcname):
-    if not path.exists():
-        raise SystemExit(f"Ontbrekend bestand: {path}")
-    zf.write(path, arcname)
+def make_zip(path, entries):
+    with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
+        for src, arc in entries:
+            if not src.exists():
+                raise SystemExit(f"Ontbrekend bestand: {src}")
+            zf.write(src, arc)
 
-def package_vhfinfo():
-    out = PACKAGES / "VHFinfo_Nederland.zip"
-    with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
-        add(zf, LAYERS / "VHFinfo_Nederland.gpx", "layers/VHFinfo_Nederland.gpx")
-        if (ICONS / "vhfinfo.png").exists(): add(zf, ICONS / "vhfinfo.png", "UserIcons/vhfinfo.png")
-        for p in sorted(ICONS.glob("vhf_unknown_*.png")): add(zf, p, f"UserIcons/{p.name}")
-    return out
+def main():
+    vhf_gpx = LAYERS / "VHFinfo_Nederland.gpx"
+    rws_gpx = LAYERS / "RWS_Marifoonborden.gpx"
 
-def package_rws():
-    out = PACKAGES / "RWS_Marifoonborden.zip"
-    with zipfile.ZipFile(out, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
-        add(zf, LAYERS / "RWS_Marifoonborden.gpx", "layers/RWS_Marifoonborden.gpx")
-        for name in ("vhf_b11a.png", "vhf_b11b_unknown.png", "vhf_e23_unknown.png"):
-            p = ICONS / name
-            if p.exists(): add(zf, p, f"UserIcons/{p.name}")
-        for pattern in ("vhf_b11b_*.png", "vhf_e23_*.png"):
-            for p in sorted(ICONS.glob(pattern)):
-                if not p.name.endswith("_unknown.png"): add(zf, p, f"UserIcons/{p.name}")
-    return out
+    vhf_zip = PACKAGES / "VHFinfo_Nederland.zip"
+    icons_zip = PACKAGES / "VHF2OpenCPN_UserIcons.zip"
+    rws_zip = PACKAGES / "RWS_Marifoonborden.zip"
 
-def make_catalog(vhf, rws):
+    make_zip(vhf_zip, [(vhf_gpx, "layers/VHFinfo_Nederland.gpx")])
+    make_zip(rws_zip, [(rws_gpx, "layers/RWS_Marifoonborden.gpx")])
+    make_zip(icons_zip, [(p, f"UserIcons/{p.name}") for p in sorted(ICONS.glob("*.png"))])
+
     now = datetime.now(timezone.utc).replace(microsecond=0)
-    date = now.strftime("%Y-%m-%d"); tm = now.strftime("%H:%M:%S"); compact = now.strftime("%Y%m%d_%H%M%S"); iso = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+    iso = now.strftime("%Y-%m-%dT%H:%M:%SZ")
+
     root = ET.Element("RncProductCatalogChartCatalogs")
     header = ET.SubElement(root, "Header")
-    for tag, value in (("title","VHF2OpenCPN"),("date_created",date),("time_created",tm),("date_valid",date),("time_valid",tm),("dt_valid",iso),("ref_spec","Subset of NOAA RNC Product Catalog Technical Specifications"),("ref_spec_vers","1.0"),("s62AgencyCode","0")):
+    for tag, value in (
+        ("date_created", now.strftime("%Y-%m-%d")),
+        ("time_created", now.strftime("%H:%M:%S")),
+        ("date_valid", now.strftime("%Y-%m-%d")),
+        ("time_valid", now.strftime("%H:%M:%S")),
+        ("dt_valid", iso),
+        ("title", "VHF2OpenCPN"),
+        ("ref_spec_vers", "1.0"),
+        ("s62AgencyCode", "0"),
+    ):
         ET.SubElement(header, tag).text = value
-    for number, title, pkg, target in (("VHFinfo_Nederland","VHFinfo Nederland",vhf,"layers/VHFinfo_Nederland.gpx"),("RWS_Marifoonborden","Rijkswaterstaat marifoonborden",rws,"layers/RWS_Marifoonborden.gpx")):
+
+    for number, pkg in (("1", vhf_zip), ("2", icons_zip), ("3", rws_zip)):
         chart = ET.SubElement(root, "chart")
-        for tag, value in (("number",number),("title",title),("format","OpenCPN GPX layer + UserIcons"),("zipfile_location",f"{BASE_URL}/packages/{pkg.name}"),("zipfile_datetime",compact),("zipfile_datetime_iso8601",iso),("zipfile_size",str(pkg.stat().st_size)),("target_filename",target),("reference_file",target)):
-            ET.SubElement(chart, tag).text = value
+        ET.SubElement(chart, "number").text = number
+        ET.SubElement(chart, "title").text = "Sailing Chart, International Chart"
+        ET.SubElement(chart, "zipfile_location").text = f"{BASE}/packages/{pkg.name}"
+        ET.SubElement(chart, "zipfile_datetime_iso8601").text = iso
+        ET.SubElement(chart, "filename").text = pkg.name
+
     ET.indent(root, space="  ")
     out = CATALOG / "VHF2OpenCPN.xml"
     ET.ElementTree(root).write(out, encoding="utf-8", xml_declaration=True)
-    return out
+    print("Gereed:")
+    for p in (vhf_zip, icons_zip, rws_zip, out):
+        print(" ", p.relative_to(ROOT))
 
-def main():
-    vhf = package_vhfinfo(); rws = package_rws(); cat = make_catalog(vhf, rws)
-    print(f"Gemaakt: {vhf.relative_to(ROOT)}")
-    print(f"Gemaakt: {rws.relative_to(ROOT)}")
-    print(f"Gemaakt: {cat.relative_to(ROOT)}")
-if __name__ == "__main__": main()
+if __name__ == "__main__":
+    main()
