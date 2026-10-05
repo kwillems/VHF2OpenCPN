@@ -29,9 +29,12 @@ def main():
     icons_zip = PACKAGES / "VHF2OpenCPN_UserIcons.zip"
     rws_zip = PACKAGES / "RWS_Marifoonborden.zip"
 
-    make_zip(vhf_zip, [(vhf_gpx, "layers/VHFinfo_Nederland.gpx")])
-    make_zip(rws_zip, [(rws_gpx, "layers/RWS_Marifoonborden.gpx")])
-    make_zip(icons_zip, [(p, f"UserIcons/{p.name}") for p in sorted(ICONS.glob("*.png"))])
+    make_zip(vhf_zip, [(vhf_gpx, "opencpn/layers/VHFinfo_Nederland.gpx")])
+    make_zip(rws_zip, [(rws_gpx, "opencpn/layers/RWS_Marifoonborden.gpx")])
+    make_zip(
+        icons_zip,
+        [(p, f"opencpn/UserIcons/{p.name}") for p in sorted(ICONS.glob("*.png"))]
+    )
 
     now = datetime.now(timezone.utc).replace(microsecond=0)
     iso = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -39,28 +42,37 @@ def main():
     root = ET.Element("RncProductCatalogChartCatalogs")
     header = ET.SubElement(root, "Header")
     for tag, value in (
+        ("title", "VHF2OpenCPN"),
         ("date_created", now.strftime("%Y-%m-%d")),
         ("time_created", now.strftime("%H:%M:%S")),
         ("date_valid", now.strftime("%Y-%m-%d")),
         ("time_valid", now.strftime("%H:%M:%S")),
         ("dt_valid", iso),
-        ("title", "VHF2OpenCPN"),
+        ("ref_spec", "VHF2OpenCPN"),
         ("ref_spec_vers", "1.0"),
         ("s62AgencyCode", "0"),
     ):
         ET.SubElement(header, tag).text = value
 
-    for number, pkg in (("1", vhf_zip), ("2", icons_zip), ("3", rws_zip)):
+    entries = (
+        ("1", "VHFinfo Nederland", vhf_zip),
+        ("2", "UserIcons voor VHF2OpenCPN", icons_zip),
+        ("3", "Rijkswaterstaat marifoonborden", rws_zip),
+    )
+
+    for number, title, pkg in entries:
         chart = ET.SubElement(root, "chart")
         ET.SubElement(chart, "number").text = number
-        ET.SubElement(chart, "title").text = "Sailing Chart, International Chart"
+        ET.SubElement(chart, "title").text = title
+        ET.SubElement(chart, "format").text = "Sailing Chart, International Chart"
         ET.SubElement(chart, "zipfile_location").text = f"{BASE}/packages/{pkg.name}"
         ET.SubElement(chart, "zipfile_datetime_iso8601").text = iso
-        ET.SubElement(chart, "filename").text = pkg.name
+        ET.SubElement(chart, "target_filename").text = pkg.name
 
     ET.indent(root, space="  ")
     out = CATALOG / "VHF2OpenCPN.xml"
     ET.ElementTree(root).write(out, encoding="utf-8", xml_declaration=True)
+
     print("Gereed:")
     for p in (vhf_zip, icons_zip, rws_zip, out):
         print(" ", p.relative_to(ROOT))
