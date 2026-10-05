@@ -1,6 +1,5 @@
 <img src="docs/images/VHF2OpenCPN_overview.png"
-     alt="Schermvoorbeeld VHF2OpenCPNr"
-     width="800">
+     alt="Schermvoorbeeld VHF2OpenCPNr">
 
 # VHF2OpenCPN
 
