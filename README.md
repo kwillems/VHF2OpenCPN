@@ -1,15 +1,33 @@
 # VHF2OpenCPN
 
-VHF2OpenCPN maakt VHF-gerelateerde informatie voor Nederland geschikt voor gebruik als lagen in OpenCPN.
+VHF2OpenCPN maakt VHF-gerelateerde informatie voor Nederland beschikbaar als lagen in OpenCPN.
 
-Het project bevat momenteel twee bronnen:
+Het project combineert momenteel twee gegevensbronnen:
 
-- **VHFinfo**: VHF-gebieden en locaties uit de Nederlandse VHFinfo-dataset.
-- **Rijkswaterstaat**: relevante scheepvaartverkeerstekens voor marifoongebruik (B.11.a, B.11.b en E.23).
+- **VHFinfo Nederland** – VHF-gebieden en locaties uit de Nederlandse VHFinfo-dataset.
+- **Rijkswaterstaat marifoonborden** – relevante scheepvaartverkeerstekens voor marifoongebruik, waaronder B.11.a, B.11.b en E.23.
 
-De gegenereerde GPX-bestanden staan in `layers/`. De bijbehorende OpenCPN-iconen staan in `UserIcons/`.
+De lagen kunnen rechtstreeks vanuit OpenCPN worden geïnstalleerd en bijgewerkt via de **Kaartdownloader**. De benodigde UserIcons worden daarbij als apart pakket meegeleverd.
 
-## Structuur
+## Installeren in OpenCPN
+
+Voeg in OpenCPN bij de **Kaartdownloader** deze catalogus-URL toe:
+
+```text
+https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main/catalog/VHF2OpenCPN.xml
+```
+
+Gebruik als installatielocatie de map **boven** de OpenCPN-map, zodat de pakketten hun interne `opencpn/...`-structuur op de juiste plaats kunnen uitpakken.
+
+De catalogus bevat drie downloads:
+
+1. **VHFinfo Nederland**
+2. **UserIcons voor VHF2OpenCPN**
+3. **Rijkswaterstaat marifoonborden**
+
+Installeer alle drie wanneer je beide lagen met de juiste iconen wilt gebruiken.
+
+## Bestanden
 
 ```text
 VHF2OpenCPN/
@@ -17,41 +35,104 @@ VHF2OpenCPN/
 ├── .gitignore
 ├── scripts/
 │   ├── update_vhfinfo.py
-│   └── update_rws_vhf.py
+│   ├── update_rws_vhf.py
+│   └── build_distribution.py
 ├── layers/
-│   ├── VHFinfo-Nederland.gpx
-│   └── RWS_VHF.gpx
+│   ├── VHFinfo_Nederland.gpx
+│   └── RWS_Marifoonborden.gpx
 ├── UserIcons/
 │   └── ...
 ├── packages/
+│   ├── VHFinfo_Nederland.zip
+│   ├── VHF2OpenCPN_UserIcons.zip
+│   └── RWS_Marifoonborden.zip
 └── catalog/
+    └── VHF2OpenCPN.xml
 ```
 
-`packages/` is gereserveerd voor downloadbare ZIP-pakketten voor OpenCPN. `catalog/` is gereserveerd voor het XML-catalogusbestand waarmee die pakketten later vanuit OpenCPN kunnen worden aangeboden.
+## Hoe de OpenCPN-pakketten zijn opgebouwd
 
-## Gebruik in OpenCPN
+De ZIP-bestanden volgen dezelfde aanpak als andere OpenCPN-downloadpakketten: elk intern pad begint met `opencpn/`.
 
-1. Kopieer de benodigde PNG-bestanden uit `UserIcons/` naar de OpenCPN-map `UserIcons`.
-2. Importeer `layers/VHFinfo-Nederland.gpx` en/of `layers/RWS_VHF.gpx` in OpenCPN als laag.
+Voorbeeld:
 
-De precieze locatie van de OpenCPN-gebruikersmap verschilt per besturingssysteem en installatie.
+```text
+VHFinfo_Nederland.zip
+└── opencpn/
+    └── layers/
+        └── VHFinfo_Nederland.gpx
+```
 
-## Lagen bijwerken
+```text
+VHF2OpenCPN_UserIcons.zip
+└── opencpn/
+    └── UserIcons/
+        └── ...
+```
 
-Voor de scripts is alleen Python 3 nodig; er zijn geen externe Python-modules vereist.
+```text
+RWS_Marifoonborden.zip
+└── opencpn/
+    └── layers/
+        └── RWS_Marifoonborden.gpx
+```
 
-Vanuit de hoofdmap van het project:
+De XML-catalogus gebruikt per pakket `target_filename`, zodat OpenCPN het downloadpakket correct verwerkt.
+
+## Gegevens bijwerken
+
+Voor de scripts is alleen **Python 3** nodig. Er zijn geen externe Python-modules vereist.
+
+Voer vanuit de hoofdmap uit:
 
 ```bash
 python3 scripts/update_vhfinfo.py
 python3 scripts/update_rws_vhf.py
 ```
 
-Beide scripts schrijven standaard naar `layers/`. De scripts zijn niet afhankelijk van de naam van de hoofdmap: de repository mag lokaal dus ook anders heten.
+De scripts schrijven standaard naar:
+
+```text
+layers/VHFinfo_Nederland.gpx
+layers/RWS_Marifoonborden.gpx
+```
+
+De scripts bepalen de projectmap aan de hand van hun eigen locatie en zijn dus niet afhankelijk van de naam van de lokale repositorymap.
+
+## Distributiepakketten opnieuw bouwen
+
+Nadat een of beide GPX-bestanden zijn bijgewerkt:
+
+```bash
+python3 scripts/build_distribution.py
+```
+
+Dit script maakt opnieuw:
+
+```text
+packages/VHFinfo_Nederland.zip
+packages/VHF2OpenCPN_UserIcons.zip
+packages/RWS_Marifoonborden.zip
+catalog/VHF2OpenCPN.xml
+```
+
+Daarbij worden de datum/tijd in de catalogus en de package-URL's opnieuw vastgelegd.
+
+Een volledige update kan dus bijvoorbeeld zo worden uitgevoerd:
+
+```bash
+python3 scripts/update_vhfinfo.py
+python3 scripts/update_rws_vhf.py
+python3 scripts/build_distribution.py
+```
+
+Daarna kunnen de gewijzigde bestanden naar GitHub worden gecommit en gepusht.
+
+## Gegevensbronnen
 
 ### VHFinfo
 
-`update_vhfinfo.py` downloadt standaard de Nederlandse dataset van het VHFinfo-project en zet deze om naar een OpenCPN-compatibel GPX-bestand.
+`update_vhfinfo.py` downloadt de Nederlandse VHFinfo-dataset en zet deze om naar een OpenCPN-compatibel GPX-bestand.
 
 Bron:
 
@@ -60,21 +141,32 @@ Bron:
 
 ### Rijkswaterstaat
 
-`update_rws_vhf.py` haalt scheepvaartverkeerstekens op via de WFS-service van Rijkswaterstaat. Het script probeert eerst server-side ruim te filteren op B.11.a, B.11.b en E.23 en controleert de resultaten daarna lokaal. Bij een onbetrouwbaar resultaat valt het terug op de volledige dataset.
+`update_rws_vhf.py` haalt scheepvaartverkeerstekens op via de WFS-service van Rijkswaterstaat. Het script filtert op voor dit project relevante marifoonborden, waaronder B.11.a, B.11.b en E.23, en voert aanvullende lokale controles uit.
 
 Bronservice:
 
 - https://geo.rijkswaterstaat.nl/services/ogc/gdr/geografische_areaalregistratie/ows
 
-## Distributie via OpenCPN
+## Publiceren van een update
 
-De mappen `packages/` en `catalog/` zijn voorbereid voor een volgende stap:
+Na het bijwerken van de data en distributiepakketten:
 
-- ZIP-bestanden met de benodigde lagen en iconen in `packages/`;
-- een XML-catalogus in `catalog/` die naar de GitHub-downloads verwijst.
+```bash
+git status
+git add .
+git commit -m "Update VHF2OpenCPN data"
+git push
+```
 
-Deze bestanden worden pas toegevoegd zodra de definitieve OpenCPN-pakketstructuur en GitHub-download-URL's zijn vastgesteld.
+Voor een nieuwe release kan vervolgens een Git-tag worden gemaakt, bijvoorbeeld:
+
+```bash
+git tag -a v1.0.0 -m "VHF2OpenCPN v1.0.0"
+git push origin v1.0.0
+```
 
 ## Disclaimer
 
-Dit is een onafhankelijk project. Het is niet verbonden aan of uitgegeven door VHFinfo, Rijkswaterstaat of OpenCPN. Gebruik de gegevens als aanvullende informatie en niet als vervanging voor officiële nautische publicaties, actuele verkeersinformatie of marifoonprocedures.
+VHF2OpenCPN is een onafhankelijk project en is niet verbonden aan of uitgegeven door VHFinfo, Rijkswaterstaat of OpenCPN.
+
+Gebruik de gegevens als aanvullende nautische informatie. Zij vervangen geen officiële nautische publicaties, actuele verkeersinformatie, lokale voorschriften of marifoonprocedures.

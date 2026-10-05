@@ -42,7 +42,7 @@ def main():
     root = ET.Element("RncProductCatalogChartCatalogs")
     header = ET.SubElement(root, "Header")
     for tag, value in (
-        ("title", "VHF2OpenCPN"),
+        ("title", "VHF2OpenCPN - VHF-lagen voor Nederland"),
         ("date_created", now.strftime("%Y-%m-%d")),
         ("time_created", now.strftime("%H:%M:%S")),
         ("date_valid", now.strftime("%Y-%m-%d")),
