@@ -211,4 +211,5 @@ De XML-catalogus gebruikt voor ieder pakket `target_filename`, zodat de OpenCPN 
 
 VHF2OpenCPN is een onafhankelijk project en is niet verbonden aan of uitgegeven door VHFinfo, Rijkswaterstaat of OpenCPN.
 
+Voor de juistheid van de met behulp van VHF2OpenCPN getoonde informatie kan niet worden ingestaan. Het gebruik daarvan is volledig voor eigen risico.
 De gegevens zijn bedoeld als aanvullende nautische informatie. Controleer voor de navigatie en het marifoongebruik altijd de actuele officiële nautische publicaties, lokale voorschriften en verkeersinformatie. VHF2OpenCPN vervangt deze bronnen niet.
