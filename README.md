@@ -1,3 +1,7 @@
+<img src="docs/images/VHF2OpenCPN_overview.png"
+     alt="Schermvoorbeeld VHF2OpenCPNr"
+     width="800">
+
 # VHF2OpenCPN
 
 VHF2OpenCPN maakt VHF-gerelateerde informatie voor Nederland beschikbaar als permanente lagen in OpenCPN.
