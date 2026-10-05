@@ -9,10 +9,14 @@ LAYERS = ROOT / "layers"
 ICONS = ROOT / "UserIcons"
 PACKAGES = ROOT / "packages"
 CATALOG = ROOT / "catalog"
+RELEASES = ROOT / "releases"
 BASE = "https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main"
+PROJECT_URL = "https://github.com/kwillems/VHF2OpenCPN"
+VERSION = "1.0.0"
 
 PACKAGES.mkdir(exist_ok=True)
 CATALOG.mkdir(exist_ok=True)
+RELEASES.mkdir(exist_ok=True)
 
 def make_zip(path, entries):
     with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
@@ -20,6 +24,51 @@ def make_zip(path, entries):
             if not src.exists():
                 raise SystemExit(f"Ontbrekend bestand: {src}")
             zf.write(src, arc)
+
+
+def make_release_zip(path, vhf_gpx, rws_gpx):
+    icons = sorted(ICONS.glob("*.png"))
+    if not icons:
+        raise SystemExit(f"Geen PNG-iconen gevonden in: {ICONS}")
+
+    top = f"VHF2OpenCPN-v{VERSION}"
+
+    readme = f"""VHF2OpenCPN {VERSION}
+===================
+
+Deze ZIP bevat de twee VHF2OpenCPN-kaartlagen en de bijbehorende
+UserIcons voor OpenCPN.
+
+INHOUD
+
+layers/
+    VHFinfo_Nederland.gpx
+    RWS_Marifoonborden.gpx
+
+UserIcons/
+    De bij de kaartlagen behorende VHF-iconen.
+
+BELANGRIJK
+
+De map UserIcons is een verplicht onderdeel van de installatie.
+Zonder deze iconen worden de VHF-symbolen in OpenCPN niet correct
+weergegeven.
+
+Na installatie van nieuwe of gewijzigde UserIcons moet OpenCPN
+opnieuw worden gestart.
+
+Voor volledige installatie-instructies en projectinformatie:
+{PROJECT_URL}
+"""
+
+    with zipfile.ZipFile(path, "w", zipfile.ZIP_DEFLATED, compresslevel=9) as zf:
+        zf.write(vhf_gpx, f"{top}/layers/{vhf_gpx.name}")
+        zf.write(rws_gpx, f"{top}/layers/{rws_gpx.name}")
+
+        for icon in icons:
+            zf.write(icon, f"{top}/UserIcons/{icon.name}")
+
+        zf.writestr(f"{top}/README.txt", readme)
 
 def main():
     vhf_gpx = LAYERS / "VHFinfo_Nederland.gpx"
@@ -35,6 +84,9 @@ def main():
         icons_zip,
         [(p, f"opencpn/UserIcons/{p.name}") for p in sorted(ICONS.glob("*.png"))]
     )
+
+    release_zip = RELEASES / f"VHF2OpenCPN-v{VERSION}.zip"
+    make_release_zip(release_zip, vhf_gpx, rws_gpx)
 
     now = datetime.now(timezone.utc).replace(microsecond=0)
     iso = now.strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -74,7 +126,7 @@ def main():
     ET.ElementTree(root).write(out, encoding="utf-8", xml_declaration=True)
 
     print("Gereed:")
-    for p in (vhf_zip, icons_zip, rws_zip, out):
+    for p in (vhf_zip, icons_zip, rws_zip, out, release_zip):
         print(" ", p.relative_to(ROOT))
 
 if __name__ == "__main__":
