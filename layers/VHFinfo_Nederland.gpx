@@ -3,7 +3,7 @@
   <metadata>
     <name>VHFinfo Nederland</name>
     <desc>OpenCPN layer generated from VHFinfo; numeric channels use gray per-channel clickable icons.</desc>
-    <time>2026-10-05T12:17:17Z</time>
+    <time>2026-10-07T18:04:15Z</time>
   </metadata>
   <trk>
     <name>VHF 78 - Volkeraksluizen</name>
@@ -55,7 +55,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -95,7 +95,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Frisiabrug-/-Frisiabr%C3%AA
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -135,7 +135,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-2-6</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -355,7 +355,7 @@ Gebruik: listen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.499999518" lon="4.115427017">
@@ -372,7 +372,7 @@ Gebruik: listen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.630929945" lon="3.791038513">
@@ -389,7 +389,7 @@ Gebruik: listen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -432,7 +432,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=sluis-II</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -470,7 +470,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -513,7 +513,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Houtribsluizen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -557,7 +557,7 @@ Opmerking: No mooring northside, busy cargo traffic</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -619,7 +619,7 @@ Bron/info: https://www.portofharlingen.nl/en/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -667,7 +667,7 @@ Bron/info: https://www.waddenhaventexel.nl/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -707,7 +707,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-2-6</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -750,7 +750,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Heuvel</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -793,7 +793,7 @@ Bron/info: https://www.binnenvaartinbeeld.com/nl/zuid_willemsvaart/sluis_11</des
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -836,7 +836,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Lijnsheike</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -874,7 +874,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -936,7 +936,7 @@ Bron/info: https://www.enkhuizen.nl/direct-regelen/ontspanning-en-vrije-tijd/hav
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -986,7 +986,7 @@ Bron/info: file:///home/hans/Videos/blck_hp1_y2020_baz62.pdf</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.188094230" lon="5.034240246">
@@ -1001,7 +1001,7 @@ Bron/info: file:///home/hans/Videos/blck_hp1_y2020_baz62.pdf</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.222559175" lon="4.799961090">
@@ -1016,7 +1016,7 @@ Bron/info: file:///home/hans/Videos/blck_hp1_y2020_baz62.pdf</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1056,7 +1056,7 @@ Opmerking: Kruisend verkeer v Starkeborg kanaal. MELDEN!</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1136,7 +1136,7 @@ Bron/info: https://www.binnenvaartkennis.nl/wp-content/uploads/2021/03/VTS-Proce
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1176,7 +1176,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Harinxmabrug-/-van-Harinxma
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1230,7 +1230,7 @@ Telefoon: +31887974599</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1273,7 +1273,7 @@ Telefoon: +31582925888</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1371,7 +1371,7 @@ Bron/info: https://www.varendoejesamen.nl/knooppunten/knooppunt-1-27-amsterdam-r
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1414,7 +1414,7 @@ Telefoon: +31 (0)88 7974825</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1461,7 +1461,7 @@ Bron/info: https://www.wsv-sint-annaland.nl/passant</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1512,7 +1512,7 @@ Bron/info: http://www.waddenhavenvlieland.nl/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1557,7 +1557,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1600,7 +1600,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Waalstraat</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1659,7 +1659,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1699,7 +1699,7 @@ Bron/info: https://portofdenhelder.nl/shipping/bridges-and-locks</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1782,7 +1782,7 @@ Bron/info: https://www.groningen-seaports.com/wp-content/uploads/InfoKaart-Eems-
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1838,7 +1838,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1881,7 +1881,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Sluis-IV</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1925,7 +1925,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Spoorbrug-HRMK</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -1968,7 +1968,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Erpsebrug</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2006,7 +2006,7 @@ Bron/info: https://www.binnenvaartkennis.nl/2018/10/marifoonkanalen-nederland/</
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2141,7 +2141,7 @@ Bron/info: https://www.portofamsterdam.com/sites/default/files/2025-09/VTS%20com
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2197,7 +2197,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2239,7 +2239,7 @@ Gebruik: listen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2279,7 +2279,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2321,7 +2321,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2359,7 +2359,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2501,7 +2501,7 @@ Bron/info: https://www.portofamsterdam.com/sites/default/files/2025-09/VTS%20com
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2542,7 +2542,7 @@ Telefoon: +31 (0)88 7974825</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2585,7 +2585,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Sluis-Schijndel</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2826,7 +2826,7 @@ Bron/info: https://www.varendoejesamen.nl/nieuws/1-juni-2016-krijgt-vts-sector-m
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2866,7 +2866,7 @@ Opmerking: City of Groningen CH-9</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -2976,7 +2976,7 @@ Telefoon: +31887974599</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3016,7 +3016,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3072,7 +3072,7 @@ Bron/info: https://www.buyshaven.nl/contact</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3115,7 +3115,7 @@ Bron/info: https://www.vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/7069661</
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3164,7 +3164,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3209,7 +3209,7 @@ Bron/info: https://www.portofrotterdam.com/sites/default/files/2021-05/aanbevole
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3454,7 +3454,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media//knooppunten/knooppunten
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3496,7 +3496,7 @@ Bron/info: https://www.binnenvaartinbeeld.com/nl/kanaal_wessem_nederweert/sluis_
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3544,7 +3544,7 @@ Bron/info: https://www.roompotmarina.com/nl/contact/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3630,7 +3630,7 @@ Bron/info: https://wetten.overheid.nl/BWBR0010360/2021-10-06</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3673,7 +3673,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3720,7 +3720,7 @@ Bron/info: https://www.jachtclubscheveningen.com/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3765,7 +3765,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Roompotsluis</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -3839,7 +3839,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-6-6</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4075,7 +4075,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media//knooppunten/knooppunten
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4268,7 +4268,7 @@ Bron/info: https://www.portofrotterdam.com/sites/default/files/2022-02/informati
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4306,7 +4306,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4410,7 +4410,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4455,7 +4455,7 @@ Bron/info: https://www.wsvburghsluis.nl/contact</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4498,7 +4498,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=sluis-Helmond</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4549,7 +4549,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4592,7 +4592,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Hefbrug-Son</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4637,7 +4637,7 @@ Bron/info: https://beterbediend.rws.nl</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4679,7 +4679,7 @@ Bron/info: https://www.goes.nl/openingstijden-ringbrug-en-st-maartensbrug</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4719,7 +4719,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4757,7 +4757,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4795,7 +4795,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4844,7 +4844,7 @@ Opmerking: Report early for corner! yachts must wait for the traffic lights</des
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -4888,7 +4888,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-4-10</desc
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5013,7 +5013,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media//knooppunten/knooppunten
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5053,7 +5053,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5093,7 +5093,7 @@ Opmerking: City of Groningen CH-9</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5147,7 +5147,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Lorentzsluizen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5382,7 +5382,7 @@ Bron/info: https://www.varendoejesamen.nl/nieuws/1-juni-2016-krijgt-vts-sector-m
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5425,7 +5425,7 @@ Bron/info: https://www.vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/12785011<
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5470,7 +5470,7 @@ Bron/info: https://www.goes.nl/contactgegevens-sluis-en-bruggen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5633,7 +5633,7 @@ Bron/info: https://www.portofrotterdam.com/sites/default/files/2022-02/informati
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5678,7 +5678,7 @@ Telefoon: +31887985132</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5800,7 +5800,7 @@ Bron/info: https://www.binnenvaartkennis.nl/wp-content/uploads/2021/01/Rotterdam
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5848,7 +5848,7 @@ Bron/info: https://www.portofrotterdam.com/sites/default/files/2022-07/procedure
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.983263900" lon="3.662500000">
@@ -5870,7 +5870,7 @@ Bron/info: https://www.portofrotterdam.com/sites/default/files/2022-07/procedure
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.028750000" lon="3.916666667">
@@ -5892,7 +5892,7 @@ Bron/info: https://www.portofrotterdam.com/sites/default/files/2022-07/procedure
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5941,7 +5941,7 @@ Bron/info: https://dehavengids.nl/wordpress/havens/makkum-gemeentehaven/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -5986,7 +5986,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6075,7 +6075,7 @@ Bron/info: https://www.binnenvaartkennis.nl/wp-content/uploads/2021/01/Rotterdam
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6118,7 +6118,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Groenewoud</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6161,7 +6161,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Stevinsluis</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6204,7 +6204,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Holenakker</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6258,7 +6258,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6312,7 +6312,7 @@ Telefoon: +31255514457</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6621,7 +6621,7 @@ Bron/info: https://www.varendoejesamen.nl/nieuws/1-juni-2016-krijgt-vts-sector-m
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6664,7 +6664,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Dr.-Deelenlaan</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6707,7 +6707,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Sluis-5</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6758,7 +6758,7 @@ Bron/info: https://www.wvy.nl/pages/WVYBeatrix.php</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6801,7 +6801,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Beeksebrug</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6839,7 +6839,7 @@ Gebruik: listen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6886,7 +6886,7 @@ Bron/info: https://www.wvbrouwershaven.nl/contact</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6927,7 +6927,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -6970,7 +6970,7 @@ Bron/info: https://www.binnenvaartinbeeld.com/nl/zuid_willemsvaart/sluis_6</desc
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7013,7 +7013,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Markspoorbrug-Zevenbergen</
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7049,7 +7049,7 @@ Gebruik: listen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7123,7 +7123,7 @@ Bron/info: https://www.havenoudeschild.nl/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7161,7 +7161,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7203,7 +7203,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7241,7 +7241,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7289,7 +7289,7 @@ Opmerking: Busy cargo traffic</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7340,7 +7340,7 @@ Bron/info: https://www.wsvnb.nl/passanten</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7382,7 +7382,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Spoorbrug-HRM</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7443,7 +7443,7 @@ Bron/info: https://www.vdrest.nl/jachthaven-wemeldinge/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7483,7 +7483,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7625,7 +7625,7 @@ Bron/info: https://www.portofamsterdam.com/sites/default/files/2025-09/VTS%20com
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7665,7 +7665,7 @@ Opmerking: Alleen brug, sluis staat open</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7911,7 +7911,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media//knooppunten/knooppunten
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7954,7 +7954,7 @@ Bron/info: https://www.marinaseaport.nl/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -7996,7 +7996,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8038,7 +8038,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-4-3</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8091,7 +8091,7 @@ Opmerking: + old lock</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8135,7 +8135,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-4-6</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8177,7 +8177,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-2-6</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8220,7 +8220,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Prinses%20Margrietsluis</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8265,7 +8265,7 @@ Bron/info: https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/nieuw-vts-gebie
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.137087211" lon="4.515343308">
@@ -8283,7 +8283,7 @@ Bron/info: https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/nieuw-vts-gebie
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.457789240" lon="4.965423346">
@@ -8301,7 +8301,7 @@ Bron/info: https://www.rijkswaterstaat.nl/nieuws/archief/2025/10/nieuw-vts-gebie
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8361,7 +8361,7 @@ Bron/info: https://www.portofrotterdam.com/sites/default/files/2022-07/procedure
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8405,7 +8405,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-4-4-b</des
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8470,7 +8470,7 @@ Bron/info: https://www.groningen-seaports.com/wp-content/uploads/InfoKaart-Eems-
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8617,7 +8617,7 @@ Bron/info: https://www.varendoejesamen.nl/knooppunten/knooppunt-1-31-oversteek-l
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8660,7 +8660,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Oisterwijksebaan</desc
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8700,7 +8700,7 @@ Opmerking: For ships &gt;11m airdraught</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8746,7 +8746,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-4-9</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8789,7 +8789,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=sluis-4</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8831,7 +8831,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-4-4-b</des
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -8931,7 +8931,7 @@ Bron/info: https://www.portofamsterdam.com/sites/default/files/2025-09/VTS%20com
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.370279730" lon="4.275594302">
@@ -8954,7 +8954,7 @@ Bron/info: https://www.portofamsterdam.com/sites/default/files/2025-09/VTS%20com
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.370279730" lon="4.450505409">
@@ -8977,7 +8977,7 @@ Bron/info: https://www.portofamsterdam.com/sites/default/files/2025-09/VTS%20com
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.470457220" lon="4.275594302">
@@ -9000,7 +9000,7 @@ Bron/info: https://www.portofamsterdam.com/sites/default/files/2025-09/VTS%20com
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9033,7 +9033,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9111,7 +9111,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9149,7 +9149,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9592,7 +9592,7 @@ Bron/info: https://www.varendoejesamen.nl/nieuws/1-juni-2016-krijgt-vts-sector-m
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9630,7 +9630,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9670,7 +9670,7 @@ Bron/info: https://varendoejesamen.nl/knooppunten/knooppunt-6-4-goereese-sluis-n
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9713,7 +9713,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Stad-van-Gerwen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9761,7 +9761,7 @@ Bron/info: https://waddenhavenameland.nl/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9804,7 +9804,7 @@ Bron/info: https://www.binnenvaartinbeeld.com/nl/zuid_willemsvaart/donksebrug</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9854,7 +9854,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9892,7 +9892,7 @@ Gebruik: listen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9949,7 +9949,7 @@ Opmerking: Lock + Bridges</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -9992,7 +9992,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Heikantsebaan</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10037,7 +10037,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Naviduct-Krabbersgat</desc
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10179,7 +10179,7 @@ Bron/info: https://www.portofamsterdam.com/sites/default/files/2025-09/VTS%20com
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10326,7 +10326,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media//knooppunten/knooppunten
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10373,7 +10373,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10424,7 +10424,7 @@ Bron/info: https://www.wsvdenosse.nl/contact/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10467,7 +10467,7 @@ Bron/info: http://veerhavenrotterdam.nl/bruggen-en-sluizen/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10509,7 +10509,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10549,7 +10549,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-5-6</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10592,7 +10592,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=sluis-I</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10630,7 +10630,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10671,7 +10671,7 @@ Telefoon: +31 (0)88 7974825</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10716,7 +10716,7 @@ Bron/info: http://veerhavenrotterdam.nl/bruggen-en-sluizen/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10783,7 +10783,7 @@ Bron/info: https://www.mpz.nl/contact/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10821,7 +10821,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10859,7 +10859,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10904,7 +10904,7 @@ Bron/info: https://varendoejesamen.nl/storage/app/media/downloads/Marifoonblokka
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10942,7 +10942,7 @@ Gebruik: announce</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -10994,7 +10994,7 @@ Gebruik: listen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11050,7 +11050,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11101,7 +11101,7 @@ Bron/info: https://www.jachthaventerschelling.nl/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11142,7 +11142,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-5-6</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11194,7 +11194,7 @@ Bron/info: https://www.port-adhoc.com/nl/onze-havens/jachthaven-bruinisse/</desc
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11237,7 +11237,7 @@ Bron/info: https://www.binnenvaartinbeeld.com/nl/zuid_willemsvaart/sluis_12</des
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11277,7 +11277,7 @@ Bron/info: https://www.vaarweginformatie.nl/frp/main/#/geo/detail/LOCK/32698</de
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11320,7 +11320,7 @@ Bron/info: https://www.binnenvaartinbeeld.com/nl/zuid_willemsvaart/sluis_13_some
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11362,7 +11362,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11400,7 +11400,7 @@ Bron/info: https://www.binnenvaartinbeeld.com/nl/wilhelminakanaal/brug_sluis_v</
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11443,7 +11443,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Houtens</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11484,7 +11484,7 @@ Telefoon: +31  (0)165 579800</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11534,7 +11534,7 @@ Bron/info: https://marinavolendam.nl/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11576,7 +11576,7 @@ Bron/info: https://www.zeeland.nl/actueel/bedieningstijden-sluizen-en-bruggen</d
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11653,7 +11653,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Havenspoorbrug%2C-Maassluis
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11707,7 +11707,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Oranjesluizen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11752,7 +11752,7 @@ Gebruik: report</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11813,7 +11813,7 @@ Bron/info: https://www.terschelling.nl/de-haven-van-terschelling</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -11953,7 +11953,7 @@ Telefoon: +31887973300</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.478771376" lon="5.180309673">
@@ -11971,7 +11971,7 @@ Telefoon: +31887973300</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.631776904" lon="5.512756248">
@@ -11989,7 +11989,7 @@ Telefoon: +31887973300</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.937787959" lon="5.180309673">
@@ -12007,7 +12007,7 @@ Telefoon: +31887973300</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -12052,7 +12052,7 @@ Bron/info: https://www.goes.nl/contactgegevens-sluis-en-bruggen</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -12095,7 +12095,7 @@ Bron/info: http://veerhavenrotterdam.nl/bruggen-en-sluizen/</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -12135,7 +12135,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-4-5</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -12180,7 +12180,7 @@ Bron/info: https://waterkaart.net/gids/sluis.php?naam=Henriettesluis-(Schutsluis
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -12220,7 +12220,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-2-3-b</des
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -12262,7 +12262,7 @@ Bron/info: https://varendoejesamen.nl/kenniscentrum/artikel/knooppunt-4-7</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -12305,7 +12305,7 @@ Bron/info: https://waterkaart.net/gids/brug.php?naam=Brug-Holenakker</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>0</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
   <trk>
@@ -12345,7 +12345,7 @@ Opmerking: In general the lock is open</desc>
     <extensions>
       <opencpn:viz>1</opencpn:viz>
       <opencpn:viz_name>1</opencpn:viz_name>
-      <opencpn:scale_min_max UseScale="false" ScaleMin="2147483646" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
     </extensions>
   </wpt>
 </gpx>

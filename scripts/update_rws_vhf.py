@@ -452,6 +452,7 @@ def convert_to_gpx(data, output_path):
             "version": "1.1",
             "creator": "update_rws_vhf.py",
             "xmlns": "http://www.topografix.com/GPX/1/1",
+            "xmlns:opencpn": "http://www.opencpn.org",
         },
     )
 
@@ -520,6 +521,17 @@ def convert_to_gpx(data, output_path):
             ET.SubElement(wpt, "desc").text = make_description(props, channel)
             ET.SubElement(wpt, "sym").text = symbol
             ET.SubElement(wpt, "type").text = "RWS VHF-bord"
+
+            extensions = ET.SubElement(wpt, "extensions")
+            ET.SubElement(
+                extensions,
+                "opencpn:scale_min_max",
+                {
+                    "UseScale": "true",
+                    "ScaleMin": "100000",
+                    "ScaleMax": "0",
+                },
+            )
 
             counts[board_code] += 1
 
