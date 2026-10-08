@@ -528,7 +528,7 @@ def convert_to_gpx(data, output_path):
                 "opencpn:scale_min_max",
                 {
                     "UseScale": "true",
-                    "ScaleMin": "100000",
+                    "ScaleMin": "200000",
                     "ScaleMax": "0",
                 },
             )

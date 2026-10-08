@@ -3,7 +3,7 @@
   <metadata>
     <name>Rijkswaterstaat marifoonborden</name>
     <desc>Rijkswaterstaat marifoonborden, automatisch gegenereerd uit de RWS WFS-service</desc>
-    <time>2026-10-07T18:03:59Z</time>
+    <time>2026-10-08T20:51:51Z</time>
   </metadata>
   <wpt lat="53.3151844" lon="6.9342840">
     <name>B.11.b - VHF 26</name>
@@ -20,7 +20,7 @@ https://data.rws.nl/id/a/verkeersbord-24097</desc>
     <sym>vhf_b11b_26</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2515250" lon="6.3343267">
@@ -38,7 +38,7 @@ https://data.rws.nl/id/a/verkeersbord-23012</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4991145" lon="5.2688381">
@@ -56,7 +56,7 @@ https://data.rws.nl/id/a/verkeersbord-46575</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2220740" lon="6.5951666">
@@ -74,7 +74,7 @@ https://data.rws.nl/id/a/verkeersbord-52955</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7739046" lon="5.8475689">
@@ -92,7 +92,7 @@ https://data.rws.nl/id/a/verkeersbord-24521</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2508463" lon="6.7527431">
@@ -110,7 +110,7 @@ https://data.rws.nl/id/a/verkeersbord-31132</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7910713" lon="5.3678163">
@@ -125,7 +125,7 @@ https://data.rws.nl/id/a/verkeersbord-50433</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8674895" lon="5.6872435">
@@ -141,7 +141,7 @@ https://data.rws.nl/id/a/verkeersbord-47015</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8432993" lon="4.3928801">
@@ -159,7 +159,7 @@ https://data.rws.nl/id/a/verkeersbord-41735</desc>
     <sym>vhf_b11b_62</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0892833" lon="5.0795457">
@@ -177,7 +177,7 @@ https://data.rws.nl/id/a/verkeersbord-22287</desc>
     <sym>vhf_b11b_61</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3075674" lon="6.8604622">
@@ -195,7 +195,7 @@ https://data.rws.nl/id/a/verkeersbord-52421</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0081260" lon="5.0932864">
@@ -213,7 +213,7 @@ https://data.rws.nl/id/a/verkeersbord-21277</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8955414" lon="5.4571623">
@@ -231,7 +231,7 @@ https://data.rws.nl/id/a/verkeersbord-22385</desc>
     <sym>vhf_b11b_69</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3777393" lon="4.9107310">
@@ -249,7 +249,7 @@ https://data.rws.nl/id/a/verkeersbord-41330</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8548859" lon="6.0902004">
@@ -266,7 +266,7 @@ https://data.rws.nl/id/a/verkeersbord-53522</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0035156" lon="5.0922865">
@@ -284,7 +284,7 @@ https://data.rws.nl/id/a/verkeersbord-50459</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8454039" lon="5.8171103">
@@ -301,7 +301,7 @@ https://data.rws.nl/id/a/verkeersbord-24947</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.4680135" lon="6.1678846">
@@ -319,7 +319,7 @@ https://data.rws.nl/id/a/verkeersbord-23635</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6897552" lon="4.4060009">
@@ -337,7 +337,7 @@ https://data.rws.nl/id/a/verkeersbord-42080</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1654050" lon="6.1942706">
@@ -355,7 +355,7 @@ https://data.rws.nl/id/a/verkeersbord-26028</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8565620" lon="4.6554556">
@@ -372,7 +372,7 @@ https://data.rws.nl/id/a/verkeersbord-44104</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0279032" lon="5.1139379">
@@ -390,7 +390,7 @@ https://data.rws.nl/id/a/verkeersbord-21546</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9499293" lon="4.7876896">
@@ -408,7 +408,7 @@ https://data.rws.nl/id/a/verkeersbord-23254</desc>
     <sym>vhf_e23_62</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8277377" lon="4.0337007">
@@ -426,7 +426,7 @@ https://data.rws.nl/id/a/verkeersbord-41755</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3316716" lon="3.8170098">
@@ -438,7 +438,7 @@ https://data.rws.nl/id/a/verkeersbord-53591</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3835474" lon="4.9312080">
@@ -456,7 +456,7 @@ https://data.rws.nl/id/a/verkeersbord-41413</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3361681" lon="3.8194839">
@@ -474,7 +474,7 @@ https://data.rws.nl/id/a/verkeersbord-44742</desc>
     <sym>vhf_b11b_3</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2301350" lon="6.6281664">
@@ -492,7 +492,7 @@ https://data.rws.nl/id/a/verkeersbord-52925</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6651364" lon="4.0985080">
@@ -504,7 +504,7 @@ https://data.rws.nl/id/a/verkeersbord-53262</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0504665" lon="5.1075201">
@@ -522,7 +522,7 @@ https://data.rws.nl/id/a/verkeersbord-21404</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7622105" lon="5.8587709">
@@ -540,7 +540,7 @@ https://data.rws.nl/id/a/verkeersbord-25008</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9475985" lon="4.7875544">
@@ -558,7 +558,7 @@ https://data.rws.nl/id/a/verkeersbord-23524</desc>
     <sym>vhf_e23_62</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3546567" lon="5.2199911">
@@ -576,7 +576,7 @@ https://data.rws.nl/id/a/verkeersbord-23636</desc>
     <sym>vhf_b11b_2</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7599141" lon="4.6252883">
@@ -594,7 +594,7 @@ https://data.rws.nl/id/a/verkeersbord-44186</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9656776" lon="5.3284661">
@@ -612,7 +612,7 @@ https://data.rws.nl/id/a/verkeersbord-22627</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.0234379" lon="5.7906675">
@@ -628,7 +628,7 @@ https://data.rws.nl/id/a/verkeersbord-48624</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9727185" lon="5.8248245">
@@ -646,7 +646,7 @@ https://data.rws.nl/id/a/verkeersbord-24955</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3830137" lon="4.9543168">
@@ -662,7 +662,7 @@ https://data.rws.nl/id/a/verkeersbord-41547</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8481938" lon="6.1407333">
@@ -677,7 +677,7 @@ https://data.rws.nl/id/a/verkeersbord-52243</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2564053" lon="6.5089800">
@@ -695,7 +695,7 @@ https://data.rws.nl/id/a/verkeersbord-23056</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7256788" lon="4.6974056">
@@ -713,7 +713,7 @@ https://data.rws.nl/id/a/verkeersbord-44330</desc>
     <sym>vhf_e23_71</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5046797" lon="5.4196875">
@@ -729,7 +729,7 @@ https://data.rws.nl/id/a/verkeersbord-22121</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8200532" lon="4.7600739">
@@ -746,7 +746,7 @@ https://data.rws.nl/id/a/verkeersbord-44008</desc>
     <sym>vhf_e23_11</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7364228" lon="5.1345828">
@@ -764,7 +764,7 @@ https://data.rws.nl/id/a/verkeersbord-46298</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8415854" lon="4.3997977">
@@ -781,7 +781,7 @@ https://data.rws.nl/id/a/verkeersbord-41737</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5065105" lon="4.2498122">
@@ -798,7 +798,7 @@ https://data.rws.nl/id/a/verkeersbord-45280</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8564592" lon="5.8232471">
@@ -816,7 +816,7 @@ https://data.rws.nl/id/a/verkeersbord-24490</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8307891" lon="4.4259638">
@@ -833,7 +833,7 @@ https://data.rws.nl/id/a/verkeersbord-44122</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8147467" lon="5.2290972">
@@ -850,7 +850,7 @@ https://data.rws.nl/id/a/verkeersbord-24787</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4615475" lon="4.0069484">
@@ -866,7 +866,7 @@ https://data.rws.nl/id/a/verkeersbord-53397</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4663040" lon="4.0084542">
@@ -882,7 +882,7 @@ https://data.rws.nl/id/a/verkeersbord-53416</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9706233" lon="5.3874822">
@@ -900,7 +900,7 @@ https://data.rws.nl/id/a/verkeersbord-24884</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3210638" lon="5.7486979">
@@ -918,7 +918,7 @@ https://data.rws.nl/id/a/verkeersbord-48965</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2533969" lon="6.3937354">
@@ -936,7 +936,7 @@ https://data.rws.nl/id/a/verkeersbord-53039</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8961099" lon="6.0209303">
@@ -954,7 +954,7 @@ https://data.rws.nl/id/a/verkeersbord-25019</desc>
     <sym>vhf_b11b_5</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2743942" lon="5.0189303">
@@ -972,7 +972,7 @@ https://data.rws.nl/id/a/verkeersbord-22244</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7579625" lon="4.6259980">
@@ -990,7 +990,7 @@ https://data.rws.nl/id/a/verkeersbord-44187</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8130463" lon="4.8819740">
@@ -1008,7 +1008,7 @@ https://data.rws.nl/id/a/verkeersbord-44432</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5191732" lon="5.4361404">
@@ -1025,7 +1025,7 @@ https://data.rws.nl/id/a/verkeersbord-22100</desc>
     <sym>vhf_b11b_14</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1349893" lon="5.8713633">
@@ -1041,7 +1041,7 @@ https://data.rws.nl/id/a/verkeersbord-49078</desc>
     <sym>vhf_e23_85</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2282036" lon="6.1748467">
@@ -1059,7 +1059,7 @@ https://data.rws.nl/id/a/verkeersbord-23309</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2344935" lon="6.6415320">
@@ -1077,7 +1077,7 @@ https://data.rws.nl/id/a/verkeersbord-23927</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9729967" lon="5.2972398">
@@ -1095,7 +1095,7 @@ https://data.rws.nl/id/a/verkeersbord-22503</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4297602" lon="4.7405695">
@@ -1111,7 +1111,7 @@ https://data.rws.nl/id/a/verkeersbord-41693</desc>
     <sym>vhf_e23_14</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9567323" lon="5.6497547">
@@ -1128,7 +1128,7 @@ https://data.rws.nl/id/a/verkeersbord-25816</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6108849" lon="5.6420777">
@@ -1145,7 +1145,7 @@ https://data.rws.nl/id/a/verkeersbord-22161</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5187749" lon="4.0172596">
@@ -1161,7 +1161,7 @@ https://data.rws.nl/id/a/verkeersbord-53437</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5953113" lon="6.0830876">
@@ -1179,7 +1179,7 @@ https://data.rws.nl/id/a/verkeersbord-51652</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5196844" lon="5.6490958">
@@ -1197,7 +1197,7 @@ https://data.rws.nl/id/a/verkeersbord-46956</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9050189" lon="4.5742860">
@@ -1214,7 +1214,7 @@ https://data.rws.nl/id/a/verkeersbord-43168</desc>
     <sym>vhf_b11b_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6597017" lon="4.1378788">
@@ -1230,7 +1230,7 @@ https://data.rws.nl/id/a/verkeersbord-45112</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8674690" lon="5.6860623">
@@ -1246,7 +1246,7 @@ https://data.rws.nl/id/a/verkeersbord-46971</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6414057" lon="6.0801474">
@@ -1263,7 +1263,7 @@ https://data.rws.nl/id/a/verkeersbord-51342</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8675307" lon="5.6996357">
@@ -1279,7 +1279,7 @@ https://data.rws.nl/id/a/verkeersbord-47194</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8288515" lon="4.9655301">
@@ -1297,7 +1297,7 @@ https://data.rws.nl/id/a/verkeersbord-43319</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6105868" lon="5.6424901">
@@ -1314,7 +1314,7 @@ https://data.rws.nl/id/a/verkeersbord-22162</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9836141" lon="5.1424737">
@@ -1332,7 +1332,7 @@ https://data.rws.nl/id/a/verkeersbord-24780</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.4679758" lon="6.1677500">
@@ -1350,7 +1350,7 @@ https://data.rws.nl/id/a/verkeersbord-23634</desc>
     <sym>vhf_b11b_5</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9383129" lon="5.0338991">
@@ -1367,7 +1367,7 @@ https://data.rws.nl/id/a/verkeersbord-21070</desc>
     <sym>vhf_e23_11</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3766585" lon="4.9706735">
@@ -1385,7 +1385,7 @@ https://data.rws.nl/id/a/verkeersbord-41118</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0532735" lon="5.1082758">
@@ -1403,7 +1403,7 @@ https://data.rws.nl/id/a/verkeersbord-21431</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9245766" lon="5.0499091">
@@ -1420,7 +1420,7 @@ https://data.rws.nl/id/a/verkeersbord-21176</desc>
     <sym>vhf_e23_1</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3816496" lon="4.9438662">
@@ -1438,7 +1438,7 @@ https://data.rws.nl/id/a/verkeersbord-41455</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8548859" lon="6.0902004">
@@ -1455,7 +1455,7 @@ https://data.rws.nl/id/a/verkeersbord-53511</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8584164" lon="5.8247194">
@@ -1472,7 +1472,7 @@ https://data.rws.nl/id/a/verkeersbord-24431</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8775871" lon="4.3255871">
@@ -1489,7 +1489,7 @@ https://data.rws.nl/id/a/verkeersbord-41714</desc>
     <sym>vhf_b11b_62</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0795589" lon="5.3340699">
@@ -1506,7 +1506,7 @@ https://data.rws.nl/id/a/verkeersbord-21640</desc>
     <sym>vhf_e23_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9646617" lon="5.3276738">
@@ -1524,7 +1524,7 @@ https://data.rws.nl/id/a/verkeersbord-22591</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2343904" lon="6.5837782">
@@ -1542,7 +1542,7 @@ https://data.rws.nl/id/a/verkeersbord-52969</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3125456" lon="6.8894077">
@@ -1560,7 +1560,7 @@ https://data.rws.nl/id/a/verkeersbord-22898</desc>
     <sym>vhf_e23_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6992515" lon="4.6066348">
@@ -1578,7 +1578,7 @@ https://data.rws.nl/id/a/verkeersbord-42177</desc>
     <sym>vhf_b11b_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3807077" lon="4.9615763">
@@ -1596,7 +1596,7 @@ https://data.rws.nl/id/a/verkeersbord-41251</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3795292" lon="4.9624096">
@@ -1614,7 +1614,7 @@ https://data.rws.nl/id/a/verkeersbord-41255</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8943762" lon="5.4594541">
@@ -1632,7 +1632,7 @@ https://data.rws.nl/id/a/verkeersbord-21916</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8937659" lon="5.6839211">
@@ -1645,7 +1645,7 @@ https://data.rws.nl/id/a/verkeersbord-53507</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3820783" lon="4.9575033">
@@ -1663,7 +1663,7 @@ https://data.rws.nl/id/a/verkeersbord-41056</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4572368" lon="4.0093428">
@@ -1681,7 +1681,7 @@ https://data.rws.nl/id/a/verkeersbord-45154</desc>
     <sym>vhf_b11b_68</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1660454" lon="6.1935240">
@@ -1697,7 +1697,7 @@ https://data.rws.nl/id/a/verkeersbord-51984</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3301020" lon="3.8153191">
@@ -1715,7 +1715,7 @@ https://data.rws.nl/id/a/verkeersbord-44759</desc>
     <sym>vhf_b11b_3</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2584480" lon="6.5078346">
@@ -1733,7 +1733,7 @@ https://data.rws.nl/id/a/verkeersbord-23066</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2320883" lon="6.8410206">
@@ -1750,7 +1750,7 @@ https://data.rws.nl/id/a/verkeersbord-52298</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0118352" lon="6.1282328">
@@ -1768,7 +1768,7 @@ https://data.rws.nl/id/a/verkeersbord-51716</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9731006" lon="5.3966951">
@@ -1786,7 +1786,7 @@ https://data.rws.nl/id/a/verkeersbord-24885</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8383553" lon="5.3963877">
@@ -1804,7 +1804,7 @@ https://data.rws.nl/id/a/verkeersbord-24692</desc>
     <sym>vhf_b11b_68</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.0237949" lon="5.7894937">
@@ -1820,7 +1820,7 @@ https://data.rws.nl/id/a/verkeersbord-48885</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2580003" lon="6.5067580">
@@ -1838,7 +1838,7 @@ https://data.rws.nl/id/a/verkeersbord-22885</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5792561" lon="5.0596779">
@@ -1856,7 +1856,7 @@ https://data.rws.nl/id/a/verkeersbord-46003</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6916954" lon="4.4112461">
@@ -1874,7 +1874,7 @@ https://data.rws.nl/id/a/verkeersbord-42055</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6358246" lon="6.0773835">
@@ -1891,7 +1891,7 @@ https://data.rws.nl/id/a/verkeersbord-51628</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4690230" lon="4.6126916">
@@ -1908,7 +1908,7 @@ https://data.rws.nl/id/a/verkeersbord-40951</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2612516" lon="5.4700599">
@@ -1925,7 +1925,7 @@ https://data.rws.nl/id/a/verkeersbord-21923</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0767219" lon="5.8223882">
@@ -1943,7 +1943,7 @@ https://data.rws.nl/id/a/verkeersbord-53138</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6890512" lon="4.4070009">
@@ -1961,7 +1961,7 @@ https://data.rws.nl/id/a/verkeersbord-42043</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2358340" lon="6.6508179">
@@ -1979,7 +1979,7 @@ https://data.rws.nl/id/a/verkeersbord-24069</desc>
     <sym>vhf_e23_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3560789" lon="4.9739827">
@@ -1997,7 +1997,7 @@ https://data.rws.nl/id/a/verkeersbord-22229</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8567442" lon="4.6553226">
@@ -2015,7 +2015,7 @@ https://data.rws.nl/id/a/verkeersbord-44100</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.8378672" lon="5.7116844">
@@ -2031,7 +2031,7 @@ https://data.rws.nl/id/a/verkeersbord-22107</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8283837" lon="4.9664957">
@@ -2049,7 +2049,7 @@ https://data.rws.nl/id/a/verkeersbord-44476</desc>
     <sym>vhf_e23_71</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8991511" lon="5.5394289">
@@ -2066,7 +2066,7 @@ https://data.rws.nl/id/a/verkeersbord-24856</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4499264" lon="4.0133693">
@@ -2083,7 +2083,7 @@ https://data.rws.nl/id/a/verkeersbord-53368</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9549560" lon="4.7795004">
@@ -2101,7 +2101,7 @@ https://data.rws.nl/id/a/verkeersbord-23608</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2173330" lon="5.9787680">
@@ -2118,7 +2118,7 @@ https://data.rws.nl/id/a/verkeersbord-48537</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8051843" lon="4.6378855">
@@ -2135,7 +2135,7 @@ https://data.rws.nl/id/a/verkeersbord-42714</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8644267" lon="6.0716339">
@@ -2153,7 +2153,7 @@ https://data.rws.nl/id/a/verkeersbord-24358</desc>
     <sym>vhf_b11b_24</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8270836" lon="4.9631581">
@@ -2170,7 +2170,7 @@ https://data.rws.nl/id/a/verkeersbord-44350</desc>
     <sym>vhf_b11b_71</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3790825" lon="4.9294116">
@@ -2188,7 +2188,7 @@ https://data.rws.nl/id/a/verkeersbord-41299</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8548831" lon="6.0901989">
@@ -2205,7 +2205,7 @@ https://data.rws.nl/id/a/verkeersbord-53506</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4717545" lon="5.6911385">
@@ -2223,7 +2223,7 @@ https://data.rws.nl/id/a/verkeersbord-47011</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1011671" lon="5.0748321">
@@ -2241,7 +2241,7 @@ https://data.rws.nl/id/a/verkeersbord-22267</desc>
     <sym>vhf_b11b_61</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3319069" lon="3.8179695">
@@ -2254,7 +2254,7 @@ https://data.rws.nl/id/a/verkeersbord-53587</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8690962" lon="5.4214937">
@@ -2272,7 +2272,7 @@ https://data.rws.nl/id/a/verkeersbord-24329</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8789461" lon="4.3291015">
@@ -2289,7 +2289,7 @@ https://data.rws.nl/id/a/verkeersbord-41716</desc>
     <sym>vhf_b11b_61</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9089616" lon="4.5668792">
@@ -2307,7 +2307,7 @@ https://data.rws.nl/id/a/verkeersbord-44135</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8481843" lon="6.1407295">
@@ -2322,7 +2322,7 @@ https://data.rws.nl/id/a/verkeersbord-52245</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.0440534" lon="5.8034519">
@@ -2338,7 +2338,7 @@ https://data.rws.nl/id/a/verkeersbord-49060</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8548834" lon="6.0901960">
@@ -2355,7 +2355,7 @@ https://data.rws.nl/id/a/verkeersbord-25061</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8004138" lon="5.3528911">
@@ -2373,7 +2373,7 @@ https://data.rws.nl/id/a/verkeersbord-24876</desc>
     <sym>vhf_b11b_68</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3406675" lon="3.8198009">
@@ -2390,7 +2390,7 @@ https://data.rws.nl/id/a/verkeersbord-44749</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4636661" lon="4.6146806">
@@ -2408,7 +2408,7 @@ https://data.rws.nl/id/a/verkeersbord-40879</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8306249" lon="5.6985145">
@@ -2424,7 +2424,7 @@ https://data.rws.nl/id/a/verkeersbord-47107</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3790825" lon="4.9294116">
@@ -2442,7 +2442,7 @@ https://data.rws.nl/id/a/verkeersbord-41296</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2369871" lon="6.2043791">
@@ -2460,7 +2460,7 @@ https://data.rws.nl/id/a/verkeersbord-53133</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1050888" lon="5.0744912">
@@ -2478,7 +2478,7 @@ https://data.rws.nl/id/a/verkeersbord-22265</desc>
     <sym>vhf_b11b_61</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6620532" lon="4.1516231">
@@ -2494,7 +2494,7 @@ https://data.rws.nl/id/a/verkeersbord-45117</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8883166" lon="4.3205473">
@@ -2511,7 +2511,7 @@ https://data.rws.nl/id/a/verkeersbord-41704</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7196245" lon="4.4034587">
@@ -2529,7 +2529,7 @@ https://data.rws.nl/id/a/verkeersbord-43824</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7975183" lon="5.0459689">
@@ -2546,7 +2546,7 @@ https://data.rws.nl/id/a/verkeersbord-45940</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2813731" lon="5.0225142">
@@ -2563,7 +2563,7 @@ https://data.rws.nl/id/a/verkeersbord-22250</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8382739" lon="5.3961752">
@@ -2581,7 +2581,7 @@ https://data.rws.nl/id/a/verkeersbord-24218</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2460637" lon="6.2875916">
@@ -2599,7 +2599,7 @@ https://data.rws.nl/id/a/verkeersbord-23225</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9151117" lon="4.5769575">
@@ -2617,7 +2617,7 @@ https://data.rws.nl/id/a/verkeersbord-42477</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3049396" lon="6.8489774">
@@ -2635,7 +2635,7 @@ https://data.rws.nl/id/a/verkeersbord-52465</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9874484" lon="5.0593331">
@@ -2652,7 +2652,7 @@ https://data.rws.nl/id/a/verkeersbord-26291</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2337080" lon="6.5841594">
@@ -2670,7 +2670,7 @@ https://data.rws.nl/id/a/verkeersbord-22894</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9599267" lon="5.3455512">
@@ -2688,7 +2688,7 @@ https://data.rws.nl/id/a/verkeersbord-22634</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3072553" lon="6.8472059">
@@ -2706,7 +2706,7 @@ https://data.rws.nl/id/a/verkeersbord-23944</desc>
     <sym>vhf_e23_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9973564" lon="4.6920934">
@@ -2724,7 +2724,7 @@ https://data.rws.nl/id/a/verkeersbord-43546</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9220985" lon="4.5871987">
@@ -2742,7 +2742,7 @@ https://data.rws.nl/id/a/verkeersbord-42553</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8154633" lon="4.6607008">
@@ -2760,7 +2760,7 @@ https://data.rws.nl/id/a/verkeersbord-43735</desc>
     <sym>vhf_b11b_74</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3821108" lon="4.9578162">
@@ -2778,7 +2778,7 @@ https://data.rws.nl/id/a/verkeersbord-41514</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0351803" lon="5.1157379">
@@ -2796,7 +2796,7 @@ https://data.rws.nl/id/a/verkeersbord-22460</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8602741" lon="6.0810494">
@@ -2811,7 +2811,7 @@ https://data.rws.nl/id/a/verkeersbord-52423</desc>
     <sym>vhf_b11b_5</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.1993841" lon="6.0595665">
@@ -2829,7 +2829,7 @@ https://data.rws.nl/id/a/verkeersbord-23275</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4537380" lon="4.0106484">
@@ -2846,7 +2846,7 @@ https://data.rws.nl/id/a/verkeersbord-45161</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8232111" lon="4.7391476">
@@ -2864,7 +2864,7 @@ https://data.rws.nl/id/a/verkeersbord-44364</desc>
     <sym>vhf_b11b_79</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3708911" lon="4.9781384">
@@ -2882,7 +2882,7 @@ https://data.rws.nl/id/a/verkeersbord-41238</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2714009" lon="5.7430978">
@@ -2900,7 +2900,7 @@ https://data.rws.nl/id/a/verkeersbord-46735</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1583365" lon="6.1848023">
@@ -2917,7 +2917,7 @@ https://data.rws.nl/id/a/verkeersbord-50845</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8454472" lon="5.8170903">
@@ -2935,7 +2935,7 @@ https://data.rws.nl/id/a/verkeersbord-24948</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8144327" lon="4.6586274">
@@ -2953,7 +2953,7 @@ https://data.rws.nl/id/a/verkeersbord-43659</desc>
     <sym>vhf_e23_74</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5100338" lon="5.4267654">
@@ -2970,7 +2970,7 @@ https://data.rws.nl/id/a/verkeersbord-22149</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6367156" lon="6.0766639">
@@ -2988,7 +2988,7 @@ https://data.rws.nl/id/a/verkeersbord-50617</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8314531" lon="4.0339870">
@@ -3006,7 +3006,7 @@ https://data.rws.nl/id/a/verkeersbord-44232</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1249440" lon="6.1856186">
@@ -3024,7 +3024,7 @@ https://data.rws.nl/id/a/verkeersbord-50700</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5515984" lon="5.9254168">
@@ -3042,7 +3042,7 @@ https://data.rws.nl/id/a/verkeersbord-50957</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8077071" lon="4.8760876">
@@ -3060,7 +3060,7 @@ https://data.rws.nl/id/a/verkeersbord-44430</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.1406244" lon="5.8992530">
@@ -3078,7 +3078,7 @@ https://data.rws.nl/id/a/verkeersbord-23380</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8635265" lon="5.8373941">
@@ -3095,7 +3095,7 @@ https://data.rws.nl/id/a/verkeersbord-24451</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8377034" lon="4.6710743">
@@ -3112,7 +3112,7 @@ https://data.rws.nl/id/a/verkeersbord-42886</desc>
     <sym>vhf_b11b_79</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7579623" lon="4.6259945">
@@ -3129,7 +3129,7 @@ https://data.rws.nl/id/a/verkeersbord-42684</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2604884" lon="6.4764057">
@@ -3147,7 +3147,7 @@ https://data.rws.nl/id/a/verkeersbord-53047</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5220269" lon="6.0705878">
@@ -3164,7 +3164,7 @@ https://data.rws.nl/id/a/verkeersbord-50507</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4618081" lon="4.2258964">
@@ -3181,7 +3181,7 @@ https://data.rws.nl/id/a/verkeersbord-53444</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1865089" lon="5.9303032">
@@ -3199,7 +3199,7 @@ https://data.rws.nl/id/a/verkeersbord-48352</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9604593" lon="4.7745816">
@@ -3217,7 +3217,7 @@ https://data.rws.nl/id/a/verkeersbord-23605</desc>
     <sym>vhf_e23_62</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8586075" lon="5.8248614">
@@ -3235,7 +3235,7 @@ https://data.rws.nl/id/a/verkeersbord-24166</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6914823" lon="4.4115574">
@@ -3253,7 +3253,7 @@ https://data.rws.nl/id/a/verkeersbord-42059</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6996012" lon="5.2937862">
@@ -3270,7 +3270,7 @@ https://data.rws.nl/id/a/verkeersbord-21693</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6331476" lon="5.0650088">
@@ -3287,7 +3287,7 @@ https://data.rws.nl/id/a/verkeersbord-21187</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0252637" lon="5.1156970">
@@ -3305,7 +3305,7 @@ https://data.rws.nl/id/a/verkeersbord-21512</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2750339" lon="6.7518731">
@@ -3323,7 +3323,7 @@ https://data.rws.nl/id/a/verkeersbord-22978</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8243265" lon="4.0381078">
@@ -3341,7 +3341,7 @@ https://data.rws.nl/id/a/verkeersbord-41776</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2420660" lon="5.6582031">
@@ -3359,7 +3359,7 @@ https://data.rws.nl/id/a/verkeersbord-47043</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6887388" lon="4.4074355">
@@ -3377,7 +3377,7 @@ https://data.rws.nl/id/a/verkeersbord-42049</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3408341" lon="3.8175335">
@@ -3394,7 +3394,7 @@ https://data.rws.nl/id/a/verkeersbord-44775</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5178939" lon="5.4389748">
@@ -3411,7 +3411,7 @@ https://data.rws.nl/id/a/verkeersbord-22103</desc>
     <sym>vhf_b11b_14</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9979629" lon="5.1254070">
@@ -3429,7 +3429,7 @@ https://data.rws.nl/id/a/verkeersbord-24769</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8711256" lon="4.3313245">
@@ -3447,7 +3447,7 @@ https://data.rws.nl/id/a/verkeersbord-42302</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3268405" lon="3.8187402">
@@ -3464,7 +3464,7 @@ https://data.rws.nl/id/a/verkeersbord-44783</desc>
     <sym>vhf_b11b_11</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6816253" lon="5.3728502">
@@ -3480,7 +3480,7 @@ https://data.rws.nl/id/a/verkeersbord-49574</desc>
     <sym>vhf_b11b_85</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3803276" lon="4.9578259">
@@ -3498,7 +3498,7 @@ https://data.rws.nl/id/a/verkeersbord-41102</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4496738" lon="4.0111744">
@@ -3515,7 +3515,7 @@ https://data.rws.nl/id/a/verkeersbord-53369</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0549001" lon="5.3954535">
@@ -3532,7 +3532,7 @@ https://data.rws.nl/id/a/verkeersbord-22363</desc>
     <sym>vhf_e23_84</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3554713" lon="5.2194098">
@@ -3550,7 +3550,7 @@ https://data.rws.nl/id/a/verkeersbord-23639</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8991521" lon="5.5395414">
@@ -3567,7 +3567,7 @@ https://data.rws.nl/id/a/verkeersbord-24859</desc>
     <sym>vhf_b11b_69</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2557726" lon="5.6980751">
@@ -3585,7 +3585,7 @@ https://data.rws.nl/id/a/verkeersbord-46711</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5893398" lon="6.0882241">
@@ -3603,7 +3603,7 @@ https://data.rws.nl/id/a/verkeersbord-51650</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9739591" lon="5.2985592">
@@ -3621,7 +3621,7 @@ https://data.rws.nl/id/a/verkeersbord-22505</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.4353930" lon="5.7763247">
@@ -3639,7 +3639,7 @@ https://data.rws.nl/id/a/verkeersbord-23515</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4742677" lon="4.0068138">
@@ -3655,7 +3655,7 @@ https://data.rws.nl/id/a/verkeersbord-53429</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.8451538" lon="5.6737991">
@@ -3673,7 +3673,7 @@ https://data.rws.nl/id/a/verkeersbord-23871</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5240300" lon="4.2237949">
@@ -3690,7 +3690,7 @@ https://data.rws.nl/id/a/verkeersbord-45197</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2078163" lon="6.0986757">
@@ -3708,7 +3708,7 @@ https://data.rws.nl/id/a/verkeersbord-23295</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9554030" lon="4.7805244">
@@ -3726,7 +3726,7 @@ https://data.rws.nl/id/a/verkeersbord-23609</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9035131" lon="5.5763713">
@@ -3744,7 +3744,7 @@ https://data.rws.nl/id/a/verkeersbord-24396</desc>
     <sym>vhf_b11b_69</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8298348" lon="4.9388643">
@@ -3761,7 +3761,7 @@ https://data.rws.nl/id/a/verkeersbord-44320</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0744274" lon="5.8172938">
@@ -3779,7 +3779,7 @@ https://data.rws.nl/id/a/verkeersbord-23490</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3179878" lon="5.5621616">
@@ -3796,7 +3796,7 @@ https://data.rws.nl/id/a/verkeersbord-22010</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9228846" lon="5.4248565">
@@ -3814,7 +3814,7 @@ https://data.rws.nl/id/a/verkeersbord-22715</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.1993986" lon="6.0595346">
@@ -3832,7 +3832,7 @@ https://data.rws.nl/id/a/verkeersbord-53139</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8125608" lon="5.4724309">
@@ -3848,7 +3848,7 @@ https://data.rws.nl/id/a/verkeersbord-47459</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9369863" lon="5.0363833">
@@ -3865,7 +3865,7 @@ https://data.rws.nl/id/a/verkeersbord-22252</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2275985" lon="6.1730265">
@@ -3883,7 +3883,7 @@ https://data.rws.nl/id/a/verkeersbord-23305</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9129005" lon="5.6995278">
@@ -3901,7 +3901,7 @@ https://data.rws.nl/id/a/verkeersbord-23788</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.7456710" lon="5.1794014">
@@ -3918,7 +3918,7 @@ https://data.rws.nl/id/a/verkeersbord-21552</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6647210" lon="4.1592024">
@@ -3934,7 +3934,7 @@ https://data.rws.nl/id/a/verkeersbord-53477</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4315637" lon="4.7185433">
@@ -3952,7 +3952,7 @@ https://data.rws.nl/id/a/verkeersbord-40980</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2393969" lon="6.6543623">
@@ -3970,7 +3970,7 @@ https://data.rws.nl/id/a/verkeersbord-31123</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9500587" lon="5.3713752">
@@ -3988,7 +3988,7 @@ https://data.rws.nl/id/a/verkeersbord-22677</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3058914" lon="6.8480001">
@@ -4006,7 +4006,7 @@ https://data.rws.nl/id/a/verkeersbord-24164</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9229042" lon="5.4249027">
@@ -4024,7 +4024,7 @@ https://data.rws.nl/id/a/verkeersbord-22716</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0749875" lon="5.8182874">
@@ -4042,7 +4042,7 @@ https://data.rws.nl/id/a/verkeersbord-52458</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0795931" lon="5.3341807">
@@ -4059,7 +4059,7 @@ https://data.rws.nl/id/a/verkeersbord-21641</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9245134" lon="5.0501140">
@@ -4076,7 +4076,7 @@ https://data.rws.nl/id/a/verkeersbord-21179</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.7737758" lon="5.1125517">
@@ -4093,7 +4093,7 @@ https://data.rws.nl/id/a/verkeersbord-21262</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6922112" lon="4.4105246">
@@ -4111,7 +4111,7 @@ https://data.rws.nl/id/a/verkeersbord-42068</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5840010" lon="5.7787767">
@@ -4129,7 +4129,7 @@ https://data.rws.nl/id/a/verkeersbord-50791</desc>
     <sym>vhf_e23_1</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8272648" lon="4.7125204">
@@ -4146,7 +4146,7 @@ https://data.rws.nl/id/a/verkeersbord-44177</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0823141" lon="5.8348338">
@@ -4164,7 +4164,7 @@ https://data.rws.nl/id/a/verkeersbord-23454</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3831017" lon="4.9583810">
@@ -4182,7 +4182,7 @@ https://data.rws.nl/id/a/verkeersbord-41045</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8217561" lon="4.0466243">
@@ -4200,7 +4200,7 @@ https://data.rws.nl/id/a/verkeersbord-41850</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2566074" lon="6.4069723">
@@ -4218,7 +4218,7 @@ https://data.rws.nl/id/a/verkeersbord-22871</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6892347" lon="4.4067386">
@@ -4236,7 +4236,7 @@ https://data.rws.nl/id/a/verkeersbord-42040</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2171729" lon="5.9803881">
@@ -4254,7 +4254,7 @@ https://data.rws.nl/id/a/verkeersbord-48628</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0359417" lon="5.1173615">
@@ -4272,7 +4272,7 @@ https://data.rws.nl/id/a/verkeersbord-22464</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1952950" lon="5.9788672">
@@ -4289,7 +4289,7 @@ https://data.rws.nl/id/a/verkeersbord-48546</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8256594" lon="5.2935562">
@@ -4307,7 +4307,7 @@ https://data.rws.nl/id/a/verkeersbord-24274</desc>
     <sym>vhf_b11b_68</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9701822" lon="5.9266592">
@@ -4325,7 +4325,7 @@ https://data.rws.nl/id/a/verkeersbord-25413</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6920079" lon="4.4108196">
@@ -4343,7 +4343,7 @@ https://data.rws.nl/id/a/verkeersbord-42071</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9742188" lon="5.8362677">
@@ -4361,7 +4361,7 @@ https://data.rws.nl/id/a/verkeersbord-24895</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8280432" lon="4.9667124">
@@ -4379,7 +4379,7 @@ https://data.rws.nl/id/a/verkeersbord-44509</desc>
     <sym>vhf_e23_71</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8353199" lon="4.6629965">
@@ -4396,7 +4396,7 @@ https://data.rws.nl/id/a/verkeersbord-44491</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4696953" lon="4.6219858">
@@ -4413,7 +4413,7 @@ https://data.rws.nl/id/a/verkeersbord-40920</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3134375" lon="6.9310284">
@@ -4431,7 +4431,7 @@ https://data.rws.nl/id/a/verkeersbord-24154</desc>
     <sym>vhf_b11b_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5439248" lon="3.8654909">
@@ -4443,7 +4443,7 @@ https://data.rws.nl/id/a/verkeersbord-53244</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7438822" lon="5.3296414">
@@ -4458,7 +4458,7 @@ https://data.rws.nl/id/a/verkeersbord-53488</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9090120" lon="4.5616619">
@@ -4476,7 +4476,7 @@ https://data.rws.nl/id/a/verkeersbord-44125</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2605002" lon="6.4617784">
@@ -4494,7 +4494,7 @@ https://data.rws.nl/id/a/verkeersbord-22879</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9057042" lon="5.7000194">
@@ -4512,7 +4512,7 @@ https://data.rws.nl/id/a/verkeersbord-23713</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4199419" lon="4.8148161">
@@ -4530,7 +4530,7 @@ https://data.rws.nl/id/a/verkeersbord-40895</desc>
     <sym>vhf_e23_14</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9817990" lon="5.4265411">
@@ -4548,7 +4548,7 @@ https://data.rws.nl/id/a/verkeersbord-24835</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8689589" lon="5.4213880">
@@ -4566,7 +4566,7 @@ https://data.rws.nl/id/a/verkeersbord-24327</desc>
     <sym>vhf_b11b_69</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9561523" lon="5.6509196">
@@ -4583,7 +4583,7 @@ https://data.rws.nl/id/a/verkeersbord-25820</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2589421" lon="6.4977431">
@@ -4601,7 +4601,7 @@ https://data.rws.nl/id/a/verkeersbord-22884</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0650313" lon="5.3396568">
@@ -4618,7 +4618,7 @@ https://data.rws.nl/id/a/verkeersbord-21712</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9074829" lon="4.5615123">
@@ -4634,7 +4634,7 @@ https://data.rws.nl/id/a/verkeersbord-44220</desc>
     <sym>vhf_b11b_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3377080" lon="5.1308113">
@@ -4651,7 +4651,7 @@ https://data.rws.nl/id/a/verkeersbord-22405</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4637015" lon="4.6212325">
@@ -4669,7 +4669,7 @@ https://data.rws.nl/id/a/verkeersbord-40882</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8456006" lon="6.1598925">
@@ -4687,7 +4687,7 @@ https://data.rws.nl/id/a/verkeersbord-24577</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0157238" lon="5.1110303">
@@ -4705,7 +4705,7 @@ https://data.rws.nl/id/a/verkeersbord-22320</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3718571" lon="5.0143146">
@@ -4723,7 +4723,7 @@ https://data.rws.nl/id/a/verkeersbord-41189</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3716754" lon="5.0138968">
@@ -4741,7 +4741,7 @@ https://data.rws.nl/id/a/verkeersbord-41120</desc>
     <sym>vhf_e23_1</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6850699" lon="6.1524981">
@@ -4759,7 +4759,7 @@ https://data.rws.nl/id/a/verkeersbord-51280</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6469030" lon="4.8230186">
@@ -4777,7 +4777,7 @@ https://data.rws.nl/id/a/verkeersbord-45499</desc>
     <sym>vhf_e23_84</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8990360" lon="5.5394631">
@@ -4794,7 +4794,7 @@ https://data.rws.nl/id/a/verkeersbord-24858</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0480824" lon="5.1048410">
@@ -4812,7 +4812,7 @@ https://data.rws.nl/id/a/verkeersbord-22337</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2364051" lon="6.6506408">
@@ -4830,7 +4830,7 @@ https://data.rws.nl/id/a/verkeersbord-24058</desc>
     <sym>vhf_e23_7</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2582761" lon="6.5084518">
@@ -4848,7 +4848,7 @@ https://data.rws.nl/id/a/verkeersbord-53006</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6782737" lon="5.3776816">
@@ -4866,7 +4866,7 @@ https://data.rws.nl/id/a/verkeersbord-49668</desc>
     <sym>vhf_b11b_85</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2276162" lon="5.9856995">
@@ -4884,7 +4884,7 @@ https://data.rws.nl/id/a/verkeersbord-48024</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8147885" lon="5.2292601">
@@ -4901,7 +4901,7 @@ https://data.rws.nl/id/a/verkeersbord-24791</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1636961" lon="5.9005476">
@@ -4919,7 +4919,7 @@ https://data.rws.nl/id/a/verkeersbord-48699</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8656873" lon="5.8836298">
@@ -4937,7 +4937,7 @@ https://data.rws.nl/id/a/verkeersbord-24505</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8053235" lon="4.8767528">
@@ -4955,7 +4955,7 @@ https://data.rws.nl/id/a/verkeersbord-42902</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.7040200" lon="5.3077800">
@@ -4972,7 +4972,7 @@ https://data.rws.nl/id/a/verkeersbord-21651</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3267860" lon="3.8180621">
@@ -4989,7 +4989,7 @@ https://data.rws.nl/id/a/verkeersbord-44778</desc>
     <sym>vhf_b11b_11</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8025250" lon="4.6385950">
@@ -5007,7 +5007,7 @@ https://data.rws.nl/id/a/verkeersbord-42721</desc>
     <sym>vhf_b11b_79</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6911996" lon="4.4119429">
@@ -5025,7 +5025,7 @@ https://data.rws.nl/id/a/verkeersbord-42061</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3212732" lon="6.9411226">
@@ -5043,7 +5043,7 @@ https://data.rws.nl/id/a/verkeersbord-22896</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2023956" lon="6.0776745">
@@ -5061,7 +5061,7 @@ https://data.rws.nl/id/a/verkeersbord-53143</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5807781" lon="5.8451897">
@@ -5079,7 +5079,7 @@ https://data.rws.nl/id/a/verkeersbord-50788</desc>
     <sym>vhf_e23_84</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3331807" lon="3.8202159">
@@ -5096,7 +5096,7 @@ https://data.rws.nl/id/a/verkeersbord-44735</desc>
     <sym>vhf_b11b_11</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.8399396" lon="5.6708110">
@@ -5114,7 +5114,7 @@ https://data.rws.nl/id/a/verkeersbord-23873</desc>
     <sym>vhf_e23_1</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9034703" lon="4.5557341">
@@ -5132,7 +5132,7 @@ https://data.rws.nl/id/a/verkeersbord-42927</desc>
     <sym>vhf_b11b_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4938337" lon="4.0057917">
@@ -5148,7 +5148,7 @@ https://data.rws.nl/id/a/verkeersbord-53430</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8645099" lon="6.0714703">
@@ -5166,7 +5166,7 @@ https://data.rws.nl/id/a/verkeersbord-24624</desc>
     <sym>vhf_b11b_19</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8669022" lon="5.6890218">
@@ -5181,7 +5181,7 @@ https://data.rws.nl/id/a/verkeersbord-47097</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2620044" lon="5.4742447">
@@ -5198,7 +5198,7 @@ https://data.rws.nl/id/a/verkeersbord-21927</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2390592" lon="6.2229722">
@@ -5216,7 +5216,7 @@ https://data.rws.nl/id/a/verkeersbord-23268</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8481892" lon="6.1407632">
@@ -5231,7 +5231,7 @@ https://data.rws.nl/id/a/verkeersbord-52244</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8716353" lon="4.3310450">
@@ -5249,7 +5249,7 @@ https://data.rws.nl/id/a/verkeersbord-42302</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2252338" lon="5.9844745">
@@ -5267,7 +5267,7 @@ https://data.rws.nl/id/a/verkeersbord-48251</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2749592" lon="5.7574064">
@@ -5285,7 +5285,7 @@ https://data.rws.nl/id/a/verkeersbord-49310</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8556032" lon="5.8240344">
@@ -5303,7 +5303,7 @@ https://data.rws.nl/id/a/verkeersbord-24956</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7197398" lon="4.4030571">
@@ -5321,7 +5321,7 @@ https://data.rws.nl/id/a/verkeersbord-42031</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7907463" lon="5.0538650">
@@ -5338,7 +5338,7 @@ https://data.rws.nl/id/a/verkeersbord-45991</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5117777" lon="5.4175599">
@@ -5355,7 +5355,7 @@ https://data.rws.nl/id/a/verkeersbord-21823</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0438254" lon="5.1009506">
@@ -5373,7 +5373,7 @@ https://data.rws.nl/id/a/verkeersbord-22335</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3032955" lon="6.8463811">
@@ -5391,7 +5391,7 @@ https://data.rws.nl/id/a/verkeersbord-23839</desc>
     <sym>vhf_e23_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8007071" lon="5.3528399">
@@ -5406,7 +5406,7 @@ https://data.rws.nl/id/a/verkeersbord-47572</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5206675" lon="5.6478728">
@@ -5424,7 +5424,7 @@ https://data.rws.nl/id/a/verkeersbord-46954</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9546980" lon="5.3278581">
@@ -5442,7 +5442,7 @@ https://data.rws.nl/id/a/verkeersbord-24874</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5102504" lon="4.1732555">
@@ -5455,7 +5455,7 @@ https://data.rws.nl/id/a/verkeersbord-53293</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8794628" lon="5.7839694">
@@ -5473,7 +5473,7 @@ https://data.rws.nl/id/a/verkeersbord-24362</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1531298" lon="6.1810333">
@@ -5491,7 +5491,7 @@ https://data.rws.nl/id/a/verkeersbord-50709</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4576781" lon="4.0092519">
@@ -5508,7 +5508,7 @@ https://data.rws.nl/id/a/verkeersbord-53387</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2238892" lon="6.6052008">
@@ -5526,7 +5526,7 @@ https://data.rws.nl/id/a/verkeersbord-52917</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6383152" lon="6.0679282">
@@ -5543,7 +5543,7 @@ https://data.rws.nl/id/a/verkeersbord-50621</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3679065" lon="5.0134092">
@@ -5561,7 +5561,7 @@ https://data.rws.nl/id/a/verkeersbord-41480</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6895520" lon="4.4062959">
@@ -5579,7 +5579,7 @@ https://data.rws.nl/id/a/verkeersbord-42037</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3815736" lon="4.9440072">
@@ -5596,7 +5596,7 @@ https://data.rws.nl/id/a/verkeersbord-41463</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3039985" lon="6.8460161">
@@ -5614,7 +5614,7 @@ https://data.rws.nl/id/a/verkeersbord-52535</desc>
     <sym>vhf_e23_7</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.0472991" lon="5.8022743">
@@ -5628,7 +5628,7 @@ https://data.rws.nl/id/a/verkeersbord-53123</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6994680" lon="5.2932632">
@@ -5645,7 +5645,7 @@ https://data.rws.nl/id/a/verkeersbord-21689</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3810361" lon="4.9575502">
@@ -5663,7 +5663,7 @@ https://data.rws.nl/id/a/verkeersbord-41516</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9190081" lon="4.5792720">
@@ -5681,7 +5681,7 @@ https://data.rws.nl/id/a/verkeersbord-42466</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5187739" lon="4.0172882">
@@ -5697,7 +5697,7 @@ https://data.rws.nl/id/a/verkeersbord-45103</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8194198" lon="4.1276157">
@@ -5714,7 +5714,7 @@ https://data.rws.nl/id/a/verkeersbord-44161</desc>
     <sym>vhf_b11b_74</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3764083" lon="4.9553298">
@@ -5732,7 +5732,7 @@ https://data.rws.nl/id/a/verkeersbord-41060</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8631107" lon="4.3295719">
@@ -5750,7 +5750,7 @@ https://data.rws.nl/id/a/verkeersbord-42350</desc>
     <sym>vhf_b11b_62</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3047202" lon="5.0194608">
@@ -5767,7 +5767,7 @@ https://data.rws.nl/id/a/verkeersbord-21030</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2485596" lon="5.6762137">
@@ -5785,7 +5785,7 @@ https://data.rws.nl/id/a/verkeersbord-46708</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1872232" lon="5.9272387">
@@ -5802,7 +5802,7 @@ https://data.rws.nl/id/a/verkeersbord-48270</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6952314" lon="4.5914193">
@@ -5820,7 +5820,7 @@ https://data.rws.nl/id/a/verkeersbord-42219</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3116284" lon="6.9180301">
@@ -5838,7 +5838,7 @@ https://data.rws.nl/id/a/verkeersbord-23882</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6619091" lon="4.1566527">
@@ -5849,7 +5849,7 @@ https://data.rws.nl/id/a/verkeersbord-53280</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8449039" lon="5.8142449">
@@ -5867,7 +5867,7 @@ https://data.rws.nl/id/a/verkeersbord-24937</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3392346" lon="6.1161412">
@@ -5885,7 +5885,7 @@ https://data.rws.nl/id/a/verkeersbord-50121</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.1847439" lon="5.9813426">
@@ -5903,7 +5903,7 @@ https://data.rws.nl/id/a/verkeersbord-53065</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5825887" lon="5.8704916">
@@ -5920,7 +5920,7 @@ https://data.rws.nl/id/a/verkeersbord-50787</desc>
     <sym>vhf_e23_84</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4275551" lon="4.2355557">
@@ -5938,7 +5938,7 @@ https://data.rws.nl/id/a/verkeersbord-45261</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9485219" lon="5.3693870">
@@ -5956,7 +5956,7 @@ https://data.rws.nl/id/a/verkeersbord-22676</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8478150" lon="5.8164877">
@@ -5973,7 +5973,7 @@ https://data.rws.nl/id/a/verkeersbord-24942</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5182389" lon="5.4384977">
@@ -5990,7 +5990,7 @@ https://data.rws.nl/id/a/verkeersbord-22101</desc>
     <sym>vhf_b11b_14</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6651374" lon="4.0985052">
@@ -6002,7 +6002,7 @@ https://data.rws.nl/id/a/verkeersbord-53261</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8125237" lon="5.6957161">
@@ -6018,7 +6018,7 @@ https://data.rws.nl/id/a/verkeersbord-46756</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2754216" lon="5.0225962">
@@ -6036,7 +6036,7 @@ https://data.rws.nl/id/a/verkeersbord-20995</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4572953" lon="4.0098956">
@@ -6052,7 +6052,7 @@ https://data.rws.nl/id/a/verkeersbord-45156</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3835588" lon="4.9312069">
@@ -6070,7 +6070,7 @@ https://data.rws.nl/id/a/verkeersbord-41411</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6526700" lon="4.8464066">
@@ -6088,7 +6088,7 @@ https://data.rws.nl/id/a/verkeersbord-51919</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2023287" lon="6.0775013">
@@ -6106,7 +6106,7 @@ https://data.rws.nl/id/a/verkeersbord-23284</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8233595" lon="4.0405536">
@@ -6124,7 +6124,7 @@ https://data.rws.nl/id/a/verkeersbord-41783</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0193049" lon="5.2097122">
@@ -6142,7 +6142,7 @@ https://data.rws.nl/id/a/verkeersbord-21561</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4698071" lon="4.6208873">
@@ -6160,7 +6160,7 @@ https://data.rws.nl/id/a/verkeersbord-41563</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6909913" lon="4.4122380">
@@ -6178,7 +6178,7 @@ https://data.rws.nl/id/a/verkeersbord-42137</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8481815" lon="6.1407589">
@@ -6194,7 +6194,7 @@ https://data.rws.nl/id/a/verkeersbord-52250</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2525319" lon="6.6993999">
@@ -6212,7 +6212,7 @@ https://data.rws.nl/id/a/verkeersbord-30858</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5001378" lon="5.2975719">
@@ -6230,7 +6230,7 @@ https://data.rws.nl/id/a/verkeersbord-46368</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8436590" lon="6.1650311">
@@ -6248,7 +6248,7 @@ https://data.rws.nl/id/a/verkeersbord-24588</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3812577" lon="4.9624554">
@@ -6266,7 +6266,7 @@ https://data.rws.nl/id/a/verkeersbord-41246</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6842461" lon="5.2812350">
@@ -6283,7 +6283,7 @@ https://data.rws.nl/id/a/verkeersbord-21605</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.4682752" lon="6.2020058">
@@ -6300,7 +6300,7 @@ https://data.rws.nl/id/a/verkeersbord-23632</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2558130" lon="6.5098154">
@@ -6318,7 +6318,7 @@ https://data.rws.nl/id/a/verkeersbord-23046</desc>
     <sym>vhf_e23_78</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0952989" lon="5.0790469">
@@ -6336,7 +6336,7 @@ https://data.rws.nl/id/a/verkeersbord-22274</desc>
     <sym>vhf_b11b_61</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6885504" lon="4.4076978">
@@ -6354,7 +6354,7 @@ https://data.rws.nl/id/a/verkeersbord-42053</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9619658" lon="5.7927722">
@@ -6372,7 +6372,7 @@ https://data.rws.nl/id/a/verkeersbord-24924</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4577352" lon="4.0096700">
@@ -6389,7 +6389,7 @@ https://data.rws.nl/id/a/verkeersbord-53384</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4701867" lon="4.5935465">
@@ -6407,7 +6407,7 @@ https://data.rws.nl/id/a/verkeersbord-41526</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9139086" lon="5.4434746">
@@ -6425,7 +6425,7 @@ https://data.rws.nl/id/a/verkeersbord-22299</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3332201" lon="3.8206787">
@@ -6442,7 +6442,7 @@ https://data.rws.nl/id/a/verkeersbord-44850</desc>
     <sym>vhf_b11b_11</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3558351" lon="4.9692464">
@@ -6460,7 +6460,7 @@ https://data.rws.nl/id/a/verkeersbord-22228</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1533103" lon="5.8858947">
@@ -6476,7 +6476,7 @@ https://data.rws.nl/id/a/verkeersbord-48304</desc>
     <sym>vhf_e23_85</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5213225" lon="6.0761996">
@@ -6493,7 +6493,7 @@ https://data.rws.nl/id/a/verkeersbord-50678</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2382798" lon="6.5699531">
@@ -6511,7 +6511,7 @@ https://data.rws.nl/id/a/verkeersbord-52501</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4297602" lon="4.7405695">
@@ -6528,7 +6528,7 @@ https://data.rws.nl/id/a/verkeersbord-41643</desc>
     <sym>vhf_e23_14</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5011301" lon="4.0065065">
@@ -6544,7 +6544,7 @@ https://data.rws.nl/id/a/verkeersbord-53434</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4618514" lon="4.0091379">
@@ -6560,7 +6560,7 @@ https://data.rws.nl/id/a/verkeersbord-53396</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1636295" lon="5.9005468">
@@ -6578,7 +6578,7 @@ https://data.rws.nl/id/a/verkeersbord-48700</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4700260" lon="4.5975598">
@@ -6596,7 +6596,7 @@ https://data.rws.nl/id/a/verkeersbord-41585</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.7013523" lon="5.2968631">
@@ -6613,7 +6613,7 @@ https://data.rws.nl/id/a/verkeersbord-21625</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.1489112" lon="5.9174675">
@@ -6631,7 +6631,7 @@ https://data.rws.nl/id/a/verkeersbord-23344</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.8615756" lon="5.6815531">
@@ -6649,7 +6649,7 @@ https://data.rws.nl/id/a/verkeersbord-23825</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4698950" lon="4.6171967">
@@ -6666,7 +6666,7 @@ https://data.rws.nl/id/a/verkeersbord-40974</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.0442664" lon="5.8010573">
@@ -6682,7 +6682,7 @@ https://data.rws.nl/id/a/verkeersbord-49019</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.9406766" lon="5.7514278">
@@ -6698,7 +6698,7 @@ https://data.rws.nl/id/a/verkeersbord-49178</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3776148" lon="4.9107622">
@@ -6716,7 +6716,7 @@ https://data.rws.nl/id/a/verkeersbord-41327</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6580434" lon="5.5996806">
@@ -6732,7 +6732,7 @@ https://data.rws.nl/id/a/verkeersbord-22156</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4537950" lon="4.0110680">
@@ -6749,7 +6749,7 @@ https://data.rws.nl/id/a/verkeersbord-45162</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3823175" lon="4.9037685">
@@ -6766,7 +6766,7 @@ https://data.rws.nl/id/a/verkeersbord-41379</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8702502" lon="5.6994365">
@@ -6782,7 +6782,7 @@ https://data.rws.nl/id/a/verkeersbord-47154</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5452404" lon="6.0775593">
@@ -6799,7 +6799,7 @@ https://data.rws.nl/id/a/verkeersbord-50547</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6493040" lon="5.9664570">
@@ -6817,7 +6817,7 @@ https://data.rws.nl/id/a/verkeersbord-48233</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3789556" lon="4.9624705">
@@ -6835,7 +6835,7 @@ https://data.rws.nl/id/a/verkeersbord-41489</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3050287" lon="6.0980416">
@@ -6853,7 +6853,7 @@ https://data.rws.nl/id/a/verkeersbord-49993</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7275844" lon="4.7003178">
@@ -6871,7 +6871,7 @@ https://data.rws.nl/id/a/verkeersbord-44331</desc>
     <sym>vhf_e23_71</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3303041" lon="3.8159553">
@@ -6888,7 +6888,7 @@ https://data.rws.nl/id/a/verkeersbord-44763</desc>
     <sym>vhf_b11b_3</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5192011" lon="5.6422048">
@@ -6906,7 +6906,7 @@ https://data.rws.nl/id/a/verkeersbord-46874</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5117701" lon="5.4173723">
@@ -6923,7 +6923,7 @@ https://data.rws.nl/id/a/verkeersbord-21822</desc>
     <sym>vhf_e23_1</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3273231" lon="3.8208346">
@@ -6935,7 +6935,7 @@ https://data.rws.nl/id/a/verkeersbord-53592</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4188389" lon="4.8229030">
@@ -6953,7 +6953,7 @@ https://data.rws.nl/id/a/verkeersbord-41474</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.4613377" lon="5.6954201">
@@ -6971,7 +6971,7 @@ https://data.rws.nl/id/a/verkeersbord-47235</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8345692" lon="4.6633204">
@@ -6988,7 +6988,7 @@ https://data.rws.nl/id/a/verkeersbord-42799</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5044276" lon="5.4699665">
@@ -7006,7 +7006,7 @@ https://data.rws.nl/id/a/verkeersbord-47378</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8656387" lon="5.8835756">
@@ -7024,7 +7024,7 @@ https://data.rws.nl/id/a/verkeersbord-24238</desc>
     <sym>vhf_b11b_5</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2283986" lon="6.6190450">
@@ -7042,7 +7042,7 @@ https://data.rws.nl/id/a/verkeersbord-52926</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2245621" lon="6.6047805">
@@ -7060,7 +7060,7 @@ https://data.rws.nl/id/a/verkeersbord-23758</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.3231770" lon="6.9426857">
@@ -7078,7 +7078,7 @@ https://data.rws.nl/id/a/verkeersbord-24060</desc>
     <sym>vhf_b11b_60</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.2156498" lon="5.9829913">
@@ -7096,7 +7096,7 @@ https://data.rws.nl/id/a/verkeersbord-48163</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2379638" lon="6.2190168">
@@ -7114,7 +7114,7 @@ https://data.rws.nl/id/a/verkeersbord-53135</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6526707" lon="4.8464072">
@@ -7132,7 +7132,7 @@ https://data.rws.nl/id/a/verkeersbord-45653</desc>
     <sym>vhf_e23_84</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0823820" lon="5.8348616">
@@ -7150,7 +7150,7 @@ https://data.rws.nl/id/a/verkeersbord-53134</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1345795" lon="5.8726565">
@@ -7166,7 +7166,7 @@ https://data.rws.nl/id/a/verkeersbord-49122</desc>
     <sym>vhf_e23_85</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8631883" lon="5.8374251">
@@ -7184,7 +7184,7 @@ https://data.rws.nl/id/a/verkeersbord-24453</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8287410" lon="4.9468950">
@@ -7201,7 +7201,7 @@ https://data.rws.nl/id/a/verkeersbord-43229</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7582851" lon="5.7486290">
@@ -7217,7 +7217,7 @@ https://data.rws.nl/id/a/verkeersbord-49587</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5101046" lon="4.1745170">
@@ -7230,7 +7230,7 @@ https://data.rws.nl/id/a/verkeersbord-53291</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1808295" lon="5.8479984">
@@ -7248,7 +7248,7 @@ https://data.rws.nl/id/a/verkeersbord-49244</desc>
     <sym>vhf_e23_84</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.9620364" lon="5.7515386">
@@ -7264,7 +7264,7 @@ https://data.rws.nl/id/a/verkeersbord-49175</desc>
     <sym>vhf_e23_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9491137" lon="4.7880256">
@@ -7282,7 +7282,7 @@ https://data.rws.nl/id/a/verkeersbord-23611</desc>
     <sym>vhf_e23_62</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6576454" lon="5.5988126">
@@ -7298,7 +7298,7 @@ https://data.rws.nl/id/a/verkeersbord-22132</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7730902" lon="4.6290017">
@@ -7315,7 +7315,7 @@ https://data.rws.nl/id/a/verkeersbord-42647</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1279376" lon="5.0538894">
@@ -7333,7 +7333,7 @@ https://data.rws.nl/id/a/verkeersbord-21146</desc>
     <sym>vhf_b11b_61</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6848661" lon="6.1532268">
@@ -7351,7 +7351,7 @@ https://data.rws.nl/id/a/verkeersbord-51282</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8031586" lon="4.6400343">
@@ -7369,7 +7369,7 @@ https://data.rws.nl/id/a/verkeersbord-41702</desc>
     <sym>vhf_b11b_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8965923" lon="6.0228396">
@@ -7387,7 +7387,7 @@ https://data.rws.nl/id/a/verkeersbord-25022</desc>
     <sym>vhf_b11b_5</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9895123" lon="4.6793748">
@@ -7404,7 +7404,7 @@ https://data.rws.nl/id/a/verkeersbord-44147</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1658026" lon="6.2717971">
@@ -7422,7 +7422,7 @@ https://data.rws.nl/id/a/verkeersbord-29035</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6629501" lon="4.1828515">
@@ -7439,7 +7439,7 @@ https://data.rws.nl/id/a/verkeersbord-45238</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8794527" lon="5.7840735">
@@ -7457,7 +7457,7 @@ https://data.rws.nl/id/a/verkeersbord-24363</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8002900" lon="5.3533713">
@@ -7473,7 +7473,7 @@ https://data.rws.nl/id/a/verkeersbord-47611</desc>
     <sym>vhf_b11b_68</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6956249" lon="4.4431833">
@@ -7491,7 +7491,7 @@ https://data.rws.nl/id/a/verkeersbord-42117</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2060487" lon="6.0957627">
@@ -7509,7 +7509,7 @@ https://data.rws.nl/id/a/verkeersbord-23291</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7624500" lon="5.8584166">
@@ -7524,7 +7524,7 @@ https://data.rws.nl/id/a/verkeersbord-49373</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9380973" lon="5.0399343">
@@ -7541,7 +7541,7 @@ https://data.rws.nl/id/a/verkeersbord-21111</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3270869" lon="3.8198746">
@@ -7553,7 +7553,7 @@ https://data.rws.nl/id/a/verkeersbord-53590</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8256660" lon="5.2938094">
@@ -7571,7 +7571,7 @@ https://data.rws.nl/id/a/verkeersbord-24275</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9249994" lon="5.0512238">
@@ -7588,7 +7588,7 @@ https://data.rws.nl/id/a/verkeersbord-22260</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.9379383" lon="5.0398045">
@@ -7605,7 +7605,7 @@ https://data.rws.nl/id/a/verkeersbord-21106</desc>
     <sym>vhf_e23_4</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6299273" lon="6.0090260">
@@ -7623,7 +7623,7 @@ https://data.rws.nl/id/a/verkeersbord-48420</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8695223" lon="6.0399305">
@@ -7640,7 +7640,7 @@ https://data.rws.nl/id/a/verkeersbord-24617</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2454375" lon="6.1648459">
@@ -7657,7 +7657,7 @@ https://data.rws.nl/id/a/verkeersbord-50725</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.4951877" lon="5.3945360">
@@ -7674,7 +7674,7 @@ https://data.rws.nl/id/a/verkeersbord-21781</desc>
     <sym>vhf_e23_1</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9701822" lon="5.9266592">
@@ -7692,7 +7692,7 @@ https://data.rws.nl/id/a/verkeersbord-25415</desc>
     <sym>vhf_e23_12</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.5128543" lon="4.1659449">
@@ -7709,7 +7709,7 @@ https://data.rws.nl/id/a/verkeersbord-45142</desc>
     <sym>vhf_b11b_68</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.0120576" lon="5.1095404">
@@ -7727,7 +7727,7 @@ https://data.rws.nl/id/a/verkeersbord-21446</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.5669645" lon="5.9092618">
@@ -7745,7 +7745,7 @@ https://data.rws.nl/id/a/verkeersbord-51132</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8591177" lon="5.6962769">
@@ -7761,7 +7761,7 @@ https://data.rws.nl/id/a/verkeersbord-46761</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8146216" lon="5.2292588">
@@ -7778,7 +7778,7 @@ https://data.rws.nl/id/a/verkeersbord-24789</desc>
     <sym>vhf_b11b_64</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3808798" lon="4.9318877">
@@ -7796,7 +7796,7 @@ https://data.rws.nl/id/a/verkeersbord-41303</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7736429" lon="5.7246754">
@@ -7812,7 +7812,7 @@ https://data.rws.nl/id/a/verkeersbord-46858</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3298822" lon="6.1174323">
@@ -7829,7 +7829,7 @@ https://data.rws.nl/id/a/verkeersbord-49785</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3752913" lon="4.9688661">
@@ -7847,7 +7847,7 @@ https://data.rws.nl/id/a/verkeersbord-41210</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0545638" lon="5.4018076">
@@ -7864,7 +7864,7 @@ https://data.rws.nl/id/a/verkeersbord-22368</desc>
     <sym>vhf_e23_84</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3808798" lon="4.9318877">
@@ -7880,7 +7880,7 @@ https://data.rws.nl/id/a/verkeersbord-41633</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8098849" lon="5.6924237">
@@ -7896,7 +7896,7 @@ https://data.rws.nl/id/a/verkeersbord-47275</desc>
     <sym>vhf_b11b_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.0638291" lon="5.3398831">
@@ -7913,7 +7913,7 @@ https://data.rws.nl/id/a/verkeersbord-21713</desc>
     <sym>vhf_e23_1</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8091201" lon="5.4371496">
@@ -7929,7 +7929,7 @@ https://data.rws.nl/id/a/verkeersbord-49818</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9035214" lon="5.5762736">
@@ -7947,7 +7947,7 @@ https://data.rws.nl/id/a/verkeersbord-24395</desc>
     <sym>vhf_b11b_10</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3321472" lon="5.7461620">
@@ -7965,7 +7965,7 @@ https://data.rws.nl/id/a/verkeersbord-48831</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.6943360" lon="6.1736247">
@@ -7983,7 +7983,7 @@ https://data.rws.nl/id/a/verkeersbord-51320</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9089616" lon="4.5668792">
@@ -8001,7 +8001,7 @@ https://data.rws.nl/id/a/verkeersbord-44149</desc>
     <sym>vhf_b11a</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.9229135" lon="5.4295106">
@@ -8019,7 +8019,7 @@ https://data.rws.nl/id/a/verkeersbord-22721</desc>
     <sym>vhf_e23_66</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.7714837" lon="5.7340250">
@@ -8035,7 +8035,7 @@ https://data.rws.nl/id/a/verkeersbord-47036</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.6608505" lon="4.1567325">
@@ -8046,7 +8046,7 @@ https://data.rws.nl/id/a/verkeersbord-53279</desc>
     <sym>vhf_b11b_unknown</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="53.2369871" lon="6.2043791">
@@ -8064,7 +8064,7 @@ https://data.rws.nl/id/a/verkeersbord-53061</desc>
     <sym>vhf_e23_81</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.1705811" lon="5.8757019">
@@ -8081,7 +8081,7 @@ https://data.rws.nl/id/a/verkeersbord-49295</desc>
     <sym>vhf_e23_48</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.2394949" lon="6.6542122">
@@ -8099,7 +8099,7 @@ https://data.rws.nl/id/a/verkeersbord-52084</desc>
     <sym>vhf_e23_18</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3947278" lon="4.8892311">
@@ -8117,7 +8117,7 @@ https://data.rws.nl/id/a/verkeersbord-41357</desc>
     <sym>vhf_e23_69</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.3362181" lon="3.8200241">
@@ -8135,7 +8135,7 @@ https://data.rws.nl/id/a/verkeersbord-44750</desc>
     <sym>vhf_b11b_3</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="50.8305829" lon="5.6962770">
@@ -8151,7 +8151,7 @@ https://data.rws.nl/id/a/verkeersbord-46803</desc>
     <sym>vhf_e23_20</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.1431253" lon="5.0212849">
@@ -8169,7 +8169,7 @@ https://data.rws.nl/id/a/verkeersbord-22245</desc>
     <sym>vhf_b11b_61</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="52.3693753" lon="6.6343206">
@@ -8186,7 +8186,7 @@ https://data.rws.nl/id/a/verkeersbord-52027</desc>
     <sym>vhf_e23_22</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
   <wpt lat="51.8217830" lon="4.0489780">
@@ -8203,7 +8203,7 @@ https://data.rws.nl/id/a/verkeersbord-44159</desc>
     <sym>vhf_e23_31</sym>
     <type>RWS VHF-bord</type>
     <extensions>
-      <opencpn:scale_min_max UseScale="true" ScaleMin="100000" ScaleMax="0" />
+      <opencpn:scale_min_max UseScale="true" ScaleMin="200000" ScaleMax="0" />
     </extensions>
   </wpt>
 </gpx>
