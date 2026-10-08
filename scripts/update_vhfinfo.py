@@ -502,7 +502,7 @@ def add_label(
     ET.SubElement(
         extensions,
         q(OPENCPN_NS, "scale_min_max"),
-        {"UseScale": "true", "ScaleMin": "200000", "ScaleMax": "0"},
+        {"UseScale": "true", "ScaleMin": "300000", "ScaleMax": "0"},
     )
 
 def build_gpx(
