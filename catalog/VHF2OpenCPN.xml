@@ -3,10 +3,10 @@
   <Header>
     <title>VHF2OpenCPN - VHF-lagen voor Nederland</title>
     <date_created>2026-10-08</date_created>
-    <time_created>20:52:17</time_created>
+    <time_created>21:15:27</time_created>
     <date_valid>2026-10-08</date_valid>
-    <time_valid>20:52:17</time_valid>
-    <dt_valid>2026-10-08T20:52:17Z</dt_valid>
+    <time_valid>21:15:27</time_valid>
+    <dt_valid>2026-10-08T21:15:27Z</dt_valid>
     <ref_spec>VHF2OpenCPN</ref_spec>
     <ref_spec_vers>1.0</ref_spec_vers>
     <s62AgencyCode>0</s62AgencyCode>
@@ -16,7 +16,7 @@
     <title>VHFinfo Nederland</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main/packages/VHFinfo_Nederland.zip</zipfile_location>
-    <zipfile_datetime_iso8601>2026-10-08T20:52:17Z</zipfile_datetime_iso8601>
+    <zipfile_datetime_iso8601>2026-10-08T21:15:27Z</zipfile_datetime_iso8601>
     <target_filename>VHFinfo_Nederland.zip</target_filename>
   </chart>
   <chart>
@@ -24,7 +24,7 @@
     <title>UserIcons voor VHF2OpenCPN</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main/packages/VHF2OpenCPN_UserIcons.zip</zipfile_location>
-    <zipfile_datetime_iso8601>2026-10-08T20:52:17Z</zipfile_datetime_iso8601>
+    <zipfile_datetime_iso8601>2026-10-08T21:15:27Z</zipfile_datetime_iso8601>
     <target_filename>VHF2OpenCPN_UserIcons.zip</target_filename>
   </chart>
   <chart>
@@ -32,7 +32,7 @@
     <title>Rijkswaterstaat marifoonborden</title>
     <format>Sailing Chart, International Chart</format>
     <zipfile_location>https://raw.githubusercontent.com/kwillems/VHF2OpenCPN/main/packages/RWS_Marifoonborden.zip</zipfile_location>
-    <zipfile_datetime_iso8601>2026-10-08T20:52:17Z</zipfile_datetime_iso8601>
+    <zipfile_datetime_iso8601>2026-10-08T21:15:27Z</zipfile_datetime_iso8601>
     <target_filename>RWS_Marifoonborden.zip</target_filename>
   </chart>
 </RncProductCatalogChartCatalogs>
